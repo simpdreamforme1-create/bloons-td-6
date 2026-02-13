@@ -1,0 +1,6470 @@
+{
+  "savedByGameVersion": "52.2",
+  "savedBySkuId": 35,
+  "towerXp": {
+    "DartMonkey": 25379000.45075941,
+    "BombShooter": 117955027.59281063,
+    "SniperMonkey": 147643639.99309492,
+    "SuperMonkey": 41812775.12880468,
+    "DartlingGunner": 202145308.69340515,
+    "TackShooter": 16151500.228276253,
+    "BoomerangMonkey": 25214345.128442764,
+    "IceMonkey": 51526000.27658129,
+    "GlueGunner": 52052000.41298437,
+    "MonkeySub": 54250000.9025898,
+    "MonkeyBuccaneer": 411852617.04065317,
+    "MonkeyAce": 16421000.748281479,
+    "WizardMonkey": 165730436.0862608,
+    "BuccaneerGreaterPlaneCamo": 120000000,
+    "HeliPilot": 666810000.6670761,
+    "MortarMonkey": 85211000.56494713,
+    "Alchemist": 405810000.3343191,
+    "NinjaMonkey": 533150000.7487936,
+    "Druid": 664959526.970238,
+    "BananaFarm": 7105514.279929161,
+    "SpikeFactory": 886390000.5727024,
+    "MonkeyVillage": 792059649.9895997,
+    "EngineerMonkey": 32075000.36735344,
+    "Sentry": 100000000,
+    "SentryParagon": 700000000,
+    "SentryCrushing": 0,
+    "TrueSunAvatarMini": 0,
+    "Mermonkey": 187.1243133544922
+  },
+  "acquiredUpgrades": [
+    "Sharp Shots",
+    "Long Range Darts",
+    "Extra Range",
+    "Bigger Bombs",
+    "Enhanced Eyesight",
+    "Night Vision Goggles",
+    "Fast Firing",
+    "Quick Shots",
+    "Very Quick Shots",
+    "Even Faster Firing",
+    "Crossbow",
+    "Heavy Bombs",
+    "Full Metal Jacket",
+    "Large Calibre",
+    "Shrapnel Shot",
+    "Frag Bombs",
+    "Faster Reload",
+    "Missile Launcher",
+    "Semi-Automatic",
+    "Cluster Bombs",
+    "Knockback",
+    "Laser Blasts",
+    "Super Range",
+    "Plasma Blasts",
+    "Sun Avatar",
+    "Deadly Precision",
+    "Full Auto Rifle",
+    "Ultravision",
+    "Epic Range",
+    "Faster Swivel",
+    "Powerful Darts",
+    "Advanced Targeting",
+    "Faster Barrel Spin",
+    "Sharp Shooter",
+    "Maim MOAB",
+    "Bouncing Bullet",
+    "Cripple MOAB",
+    "Supply Drop",
+    "Elite Sniper",
+    "Elite Defender",
+    "More Tacks",
+    "Even More Tacks",
+    "Tack Sprayer",
+    "Overdrive",
+    "Faster Shooting",
+    "Even Faster Shooting",
+    "Hot Shots",
+    "Long Range Tacks",
+    "Super Range Tacks",
+    "Blade Shooter",
+    "Blade Maelstrom",
+    "Ring of Fire",
+    "Inferno Ring",
+    "Super Maelstrom",
+    "The Tack Zone",
+    "Razor Sharp Shots",
+    "Spike-o-pult",
+    "Juggernaut",
+    "Triple Shot",
+    "Improved Rangs",
+    "Glaives",
+    "Glaive Ricochet",
+    "Faster Throwing",
+    "Faster Rangs",
+    "Bionc Boomerang",
+    "Long Range Rangs",
+    "Red Hot Rangs",
+    "Kylie Boomerang",
+    "Super Monkey Fan Club",
+    "M.O.A.R Glaives",
+    "MOAB Press",
+    "Ultra-Juggernaut",
+    "Plasma Monkey Fan Club",
+    "Turbo Charge",
+    "Crossbow Master",
+    "Perma Charge",
+    "Really Big Bombs",
+    "Bloon Impact",
+    "MOAB Mauler",
+    "Glaive Lord",
+    "Bloon Crush",
+    "MOAB Domination",
+    "MOAB Assassin",
+    "Recursive Cluster",
+    "Larger Radius",
+    "Re-Freeze",
+    "Cryo Cannon",
+    "Permafrost",
+    "Metal Freeze",
+    "Ice Shards",
+    "Enhanced Freeze",
+    "Deep Freeze",
+    "Arctic Wind",
+    "Icicles",
+    "MOAB Eliminator",
+    "Bomb Blitz",
+    "Icicle Impale",
+    "Embrittlement",
+    "Super Brittle",
+    "Snowstorm",
+    "Buccaneer-Faster Shooting",
+    "Buccaneer-Double Shot",
+    "Buccaneer-Destroyer",
+    "Buccaneer-Grape Shot",
+    "Buccaneer-Hot Shot",
+    "Buccaneer-Cannon Ship",
+    "Buccaneer-Long Range",
+    "Buccaneer-Crow's Nest",
+    "Longer Range",
+    "Advanced Intel",
+    "Submerge and Support",
+    "Barbed Darts",
+    "Heat-tipped Darts",
+    "Ballistic Missile",
+    "Twin Guns",
+    "Airburst Darts",
+    "Triple Guns",
+    "Bloontonium Reactor",
+    "Glue Soak",
+    "Corrosive Glue",
+    "Bloon Dissolver",
+    "Bloon Liquefier",
+    "The Bloon Solver",
+    "Bigger Globs",
+    "Stickier Glue",
+    "Absolute Zero",
+    "Armor Piercing Darts",
+    "Sub Commander",
+    "Buccaneer-Merchantman",
+    "Buccaneer-Aircraft Carrier",
+    "Buccaneer-Carrier Flagship",
+    "Rapid Fire",
+    "Lots More Darts",
+    "Fighter Plane",
+    "Operation: Dart Storm",
+    "Exploding Pineapple",
+    "Spy Plane",
+    "Bomber Ace",
+    "Sharper Darts",
+    "Centered Path",
+    "Neva-Miss Targeting",
+    "Glue Splatter",
+    "Glue Hose",
+    "Glue Strike",
+    "Glue Storm",
+    "First Strike Capability",
+    "Energizer",
+    "Sky Shredder",
+    "Ground Zero",
+    "Guided Magic",
+    "Arcane Blast",
+    "Arcane Mastery",
+    "Arcane Spike",
+    "Archmage",
+    "Fireball",
+    "Wall of Fire",
+    "Dragon's Breath",
+    "Summon Phoenix",
+    "Intense Magic",
+    "Monkey Sense",
+    "Shimmer",
+    "Necromancer: Unpopped Army",
+    "Stronger Glue",
+    "MOAB Glue",
+    "Relentless Glue",
+    "Super Glue",
+    "Pre-emptive Strike",
+    "Buccaneer-Monkey Pirates",
+    "Buccaneer-Pirate Lord",
+    "Buccaneer-Favored Trades",
+    "Buccaneer-Trade Empire",
+    "Quad Darts",
+    "Pursuit",
+    "Razor Rotors",
+    "Bigger Jets",
+    "IFR",
+    "Downdraft",
+    "Faster Darts",
+    "Faster Firing",
+    "MOAB Shove",
+    "Tsar Bomba",
+    "Spectre",
+    "Support Chinook",
+    "Flying Fortress",
+    "Buckshot",
+    "Bigger Blast",
+    "Bloon Buster",
+    "Shockwave",
+    "The Big One",
+    "Mortar Faster Reload",
+    "Mortar Rapid Reload",
+    "Heavy Shells",
+    "Increased Accuracy",
+    "Burny Stuff",
+    "Signal Flare",
+    "Artillery Battery",
+    "Bloon Area Denial System",
+    "Hydra Rocket Pods",
+    "Focused Firing",
+    "Laser Shock",
+    "Laser Cannon",
+    "Apache Dartship",
+    "Apache Prime",
+    "Comanche Defense",
+    "Shattering Shells",
+    "The Biggest One",
+    "Pop and Awe",
+    "Special Poperations",
+    "Bloon Exclusion Zone",
+    "Rocket Storm",
+    "Plasma Accelerator",
+    "Wizard Lord Phoenix",
+    "Soulbind",
+    "Ninja Discipline",
+    "Sharp Shurikens",
+    "Double Shot",
+    "Distraction",
+    "Counter-Espionage",
+    "Shinobi Tactics",
+    "Seeking Shuriken",
+    "Caltrops",
+    "Flash Bomb",
+    "Larger Potions",
+    "Acidic Mixture Dip",
+    "Berserker Brew",
+    "Stronger Stimulant",
+    "Stronger Acid",
+    "Perishing Potions",
+    "Unstable Concoction",
+    "Alchemist Faster Throwing",
+    "Acid Pool",
+    "Lead to Gold",
+    "Hard Thorns",
+    "Heart of Thunder",
+    "Druid of the Storm",
+    "Thorn Swarm",
+    "Heart of Oak",
+    "Druid of the Jungle",
+    "Druidic Reach",
+    "Heart of Vengeance",
+    "Druid of Wrath",
+    "Sun Temple",
+    "Robo Monkey",
+    "Dark Knight",
+    "Sentry Gun",
+    "Faster Engineering",
+    "Sprockets",
+    "Larger Service Area",
+    "Deconstruction",
+    "Cleansing Foam",
+    "Oversize Nails",
+    "Pin",
+    "Double Gun",
+    "Long Reach",
+    "Directed Spikes",
+    "Long Life Spikes",
+    "Bigger Stacks",
+    "White Hot Spikes",
+    "Spiked Balls",
+    "Faster Production",
+    "Even Faster Production",
+    "MOAB SHREDR",
+    "Comanche Commander",
+    "Blooncineration",
+    "Bigger Radius",
+    "Jungle Drums",
+    "Primary Training",
+    "Primary Mentoring",
+    "Grow Blocker",
+    "Radar Scanner",
+    "Monkey Intelligence Bureau",
+    "Monkey Business",
+    "Monkey Commerce",
+    "Monkey Town",
+    "EZ Collect",
+    "Banana Salvage",
+    "Marketplace",
+    "Central Market",
+    "Increased Production",
+    "Greater Production",
+    "Banana Plantation",
+    "Banana Research Facility",
+    "Long Life Bananas",
+    "Valuable Bananas",
+    "Deadly Spikes",
+    "Perma-Spike",
+    "Permanent Brew",
+    "Transforming Tonic",
+    "Rubber to Gold",
+    "Sentry Expert",
+    "Sentry Paragon",
+    "Bloon Trap",
+    "Ball Lightning",
+    "Superstorm",
+    "Jungle's Bounty",
+    "Ray of Doom",
+    "Primary Expertise",
+    "Call to Arms",
+    "Bloonjitsu",
+    "Grandmaster Ninja",
+    "Bloon Sabotage",
+    "Total Transformation",
+    "Tech Terror",
+    "M.A.D",
+    "Monkey Bank",
+    "IMF loan",
+    "Sticky Bomb",
+    "Dark Champion",
+    "Spirit of the Forest",
+    "XXXL Trap",
+    "Grand Saboteur",
+    "Homeland Defense",
+    "Monkey-Nomics",
+    "Spiked Mines",
+    "Super Mines",
+    "Spike Storm",
+    "Monkey City",
+    "Bloon Master Alchemist",
+    "Carpet of Spikes",
+    "Overclock",
+    "Ultraboost",
+    "Master Bomber",
+    "Poplust",
+    "Avatar of Wrath",
+    "Banana Central",
+    "Monkey Wall Street",
+    "Monkeyopolis",
+    "True Sun God",
+    "Camo Bananas",
+    "Adaptive Workers",
+    "Regrow Bananas",
+    "Banana Intelligence Bureau",
+    "Monkey Banker",
+    "Banana Financier",
+    "Mini Stormcaller",
+    "High Impact",
+    "Rapid Recharge",
+    "Beacon of Legends",
+    "Bewildering Storm",
+    "Piercing Wind",
+    "DartMonkey Paragon",
+    "BoomerangMonkey Paragon",
+    "BombShooter Paragon",
+    "IceMonkey Paragon",
+    "TackShooter Paragon",
+    "MonkeySub Paragon",
+    "MonkeyBuccaneer Paragon",
+    "MonkeyAce Paragon",
+    "WizardMonkey Paragon",
+    "NinjaMonkey Paragon",
+    "The Anti-Bloon",
+    "Legend of the Night",
+    "SpikeFactory Paragon",
+    "EngineerMonkey Paragon"
+  ],
+  "viewedUpgrades": [
+    "Sharp Shots",
+    "Quick Shots",
+    "Long Range Darts",
+    "Bigger Bombs",
+    "Faster Reload",
+    "Extra Range",
+    "Razor Sharp Shots",
+    "Enhanced Eyesight",
+    "Full Metal Jacket",
+    "Night Vision Goggles",
+    "Fast Firing",
+    "Very Quick Shots",
+    "Shrapnel Shot",
+    "Even Faster Firing",
+    "Triple Shot",
+    "Crossbow",
+    "Heavy Bombs",
+    "Frag Bombs",
+    "Large Calibre",
+    "Missile Launcher",
+    "Bouncing Bullet",
+    "Semi-Automatic",
+    "Cluster Bombs",
+    "Super Range",
+    "Laser Blasts",
+    "Knockback",
+    "Ultravision",
+    "Plasma Blasts",
+    "Epic Range",
+    "Sun Avatar",
+    "Deadly Precision",
+    "Full Auto Rifle",
+    "Maim MOAB",
+    "Focused Firing",
+    "Advanced Targeting",
+    "Faster Swivel",
+    "Powerful Darts",
+    "Faster Barrel Spin",
+    "Robo Monkey",
+    "Dark Knight",
+    "Sharp Shooter",
+    "Cripple MOAB",
+    "Supply Drop",
+    "Elite Defender",
+    "Elite Sniper",
+    "Faster Shooting",
+    "Long Range Tacks",
+    "More Tacks",
+    "Even More Tacks",
+    "Tack Sprayer",
+    "Overdrive",
+    "Even Faster Shooting",
+    "Hot Shots",
+    "Super Range Tacks",
+    "Blade Shooter",
+    "Ring of Fire",
+    "Blade Maelstrom",
+    "Inferno Ring",
+    "Super Maelstrom",
+    "The Tack Zone",
+    "Spike-o-pult",
+    "Juggernaut",
+    "Improved Rangs",
+    "Faster Throwing",
+    "Long Range Rangs",
+    "Glaives",
+    "Glaive Ricochet",
+    "Faster Rangs",
+    "Bionc Boomerang",
+    "Red Hot Rangs",
+    "Kylie Boomerang",
+    "Super Monkey Fan Club",
+    "M.O.A.R Glaives",
+    "Turbo Charge",
+    "MOAB Press",
+    "Ultra-Juggernaut",
+    "Plasma Monkey Fan Club",
+    "Crossbow Master",
+    "Perma Charge",
+    "MOAB Domination",
+    "Really Big Bombs",
+    "MOAB Mauler",
+    "Recursive Cluster",
+    "Bloon Impact",
+    "Glaive Lord",
+    "Bloon Crush",
+    "MOAB Assassin",
+    "Permafrost",
+    "Enhanced Freeze",
+    "Larger Radius",
+    "Re-Freeze",
+    "Cryo Cannon",
+    "Metal Freeze",
+    "Ice Shards",
+    "Deep Freeze",
+    "Arctic Wind",
+    "Embrittlement",
+    "Snowstorm",
+    "Icicles",
+    "MOAB Eliminator",
+    "Bomb Blitz",
+    "Icicle Impale",
+    "Super Brittle",
+    "Buccaneer-Faster Shooting",
+    "Buccaneer-Grape Shot",
+    "Buccaneer-Long Range",
+    "Buccaneer-Double Shot",
+    "Buccaneer-Destroyer",
+    "Buccaneer-Hot Shot",
+    "Buccaneer-Cannon Ship",
+    "Buccaneer-Crow's Nest",
+    "Longer Range",
+    "Barbed Darts",
+    "Twin Guns",
+    "Advanced Intel",
+    "Submerge and Support",
+    "Heat-tipped Darts",
+    "Ballistic Missile",
+    "Airburst Darts",
+    "Bloontonium Reactor",
+    "Triple Guns",
+    "Armor Piercing Darts",
+    "Glue Soak",
+    "Bigger Globs",
+    "Stickier Glue",
+    "Corrosive Glue",
+    "Bloon Dissolver",
+    "Bloon Liquefier",
+    "The Bloon Solver",
+    "Absolute Zero",
+    "Energizer",
+    "First Strike Capability",
+    "Sub Commander",
+    "Buccaneer-Aircraft Carrier",
+    "Buccaneer-Monkey Pirates",
+    "Buccaneer-Merchantman",
+    "Buccaneer-Favored Trades",
+    "Buccaneer-Carrier Flagship",
+    "Rapid Fire",
+    "Exploding Pineapple",
+    "Sharper Darts",
+    "Lots More Darts",
+    "Fighter Plane",
+    "Operation: Dart Storm",
+    "Spy Plane",
+    "Bomber Ace",
+    "Centered Path",
+    "Neva-Miss Targeting",
+    "Glue Splatter",
+    "Stronger Glue",
+    "Glue Hose",
+    "Glue Strike",
+    "Glue Storm",
+    "Sky Shredder",
+    "Ground Zero",
+    "Spectre",
+    "Guided Magic",
+    "Fireball",
+    "Intense Magic",
+    "Arcane Blast",
+    "Arcane Mastery",
+    "Arcane Spike",
+    "Archmage",
+    "Wall of Fire",
+    "Dragon's Breath",
+    "Summon Phoenix",
+    "Monkey Sense",
+    "Shimmer",
+    "Necromancer: Unpopped Army",
+    "MOAB Glue",
+    "Relentless Glue",
+    "Super Glue",
+    "Pre-emptive Strike",
+    "Buccaneer-Pirate Lord",
+    "Buccaneer-Trade Empire",
+    "Quad Darts",
+    "Bigger Jets",
+    "Faster Darts",
+    "Pursuit",
+    "Razor Rotors",
+    "IFR",
+    "Downdraft",
+    "Faster Firing",
+    "MOAB Shove",
+    "Tsar Bomba",
+    "Support Chinook",
+    "Comanche Defense",
+    "Flying Fortress",
+    "Bigger Blast",
+    "Mortar Faster Reload",
+    "Increased Accuracy",
+    "Hydra Rocket Pods",
+    "Buckshot",
+    "Bloon Buster",
+    "Shockwave",
+    "The Big One",
+    "Mortar Rapid Reload",
+    "Heavy Shells",
+    "Burny Stuff",
+    "Signal Flare",
+    "Artillery Battery",
+    "Shattering Shells",
+    "Bloon Area Denial System",
+    "Laser Shock",
+    "Laser Cannon",
+    "Apache Dartship",
+    "Special Poperations",
+    "Apache Prime",
+    "The Biggest One",
+    "Pop and Awe",
+    "Blooncineration",
+    "Comanche Commander",
+    "Plasma Accelerator",
+    "Rocket Storm",
+    "Bloon Exclusion Zone",
+    "Wizard Lord Phoenix",
+    "Soulbind",
+    "Ninja Discipline",
+    "Distraction",
+    "Seeking Shuriken",
+    "Sharp Shurikens",
+    "Double Shot",
+    "Counter-Espionage",
+    "Shinobi Tactics",
+    "Caltrops",
+    "Flash Bomb",
+    "Larger Potions",
+    "Stronger Acid",
+    "Alchemist Faster Throwing",
+    "Acidic Mixture Dip",
+    "Berserker Brew",
+    "Stronger Stimulant",
+    "Perishing Potions",
+    "Unstable Concoction",
+    "Acid Pool",
+    "Lead to Gold",
+    "Hard Thorns",
+    "Thorn Swarm",
+    "Druidic Reach",
+    "Heart of Thunder",
+    "Druid of the Storm",
+    "Heart of Oak",
+    "Druid of the Jungle",
+    "Heart of Vengeance",
+    "Druid of Wrath",
+    "Sun Temple",
+    "Sentry Gun",
+    "Larger Service Area",
+    "Oversize Nails",
+    "Faster Engineering",
+    "Sprockets",
+    "Deconstruction",
+    "Cleansing Foam",
+    "Pin",
+    "Double Gun",
+    "Bigger Stacks",
+    "Faster Production",
+    "Long Reach",
+    "Directed Spikes",
+    "Long Life Spikes",
+    "White Hot Spikes",
+    "Spiked Balls",
+    "Even Faster Production",
+    "MOAB SHREDR",
+    "Bigger Radius",
+    "Grow Blocker",
+    "Monkey Business",
+    "Jungle Drums",
+    "Primary Training",
+    "Primary Mentoring",
+    "Radar Scanner",
+    "Monkey Intelligence Bureau",
+    "Monkey Commerce",
+    "Monkey Town",
+    "Increased Production",
+    "Long Life Bananas",
+    "EZ Collect",
+    "Banana Salvage",
+    "Marketplace",
+    "Central Market",
+    "Greater Production",
+    "Banana Plantation",
+    "Banana Research Facility",
+    "Valuable Bananas",
+    "Spiked Mines",
+    "Spike Storm",
+    "Deadly Spikes",
+    "Perma-Spike",
+    "Permanent Brew",
+    "Transforming Tonic",
+    "Rubber to Gold",
+    "Sentry Expert",
+    "Overclock",
+    "Bloon Trap",
+    "Sentry Paragon",
+    "Ball Lightning",
+    "Jungle's Bounty",
+    "Poplust",
+    "Superstorm",
+    "Ray of Doom",
+    "M.A.D",
+    "Primary Expertise",
+    "Call to Arms",
+    "Monkey City",
+    "Bloonjitsu",
+    "Bloon Sabotage",
+    "Sticky Bomb",
+    "Grandmaster Ninja",
+    "Total Transformation",
+    "Bloon Master Alchemist",
+    "Tech Terror",
+    "Dark Champion",
+    "Monkey Bank",
+    "IMF loan",
+    "Spirit of the Forest",
+    "XXXL Trap",
+    "Grand Saboteur",
+    "Homeland Defense",
+    "Banana Central",
+    "Monkey-Nomics",
+    "Monkey Wall Street",
+    "Super Mines",
+    "Carpet of Spikes",
+    "Ultraboost",
+    "Master Bomber",
+    "Avatar of Wrath",
+    "The Anti-Bloon",
+    "Legend of the Night",
+    "Monkeyopolis",
+    "True Sun God",
+    "DartMonkey Paragon",
+    "BoomerangMonkey Paragon",
+    "BombShooter Paragon",
+    "IceMonkey Paragon",
+    "TackShooter Paragon",
+    "MonkeySub Paragon",
+    "MonkeyBuccaneer Paragon",
+    "MonkeyAce Paragon",
+    "WizardMonkey Paragon",
+    "NinjaMonkey Paragon",
+    "SpikeFactory Paragon",
+    "EngineerMonkey Paragon"
+  ],
+  "paragonUpgradesPurchased": [
+    "MonkeyBuccaneer Paragon"
+  ],
+  "acquiredKnowledge": [],
+  "paidForKnowledge": [],
+  "knowledgeDisabled": false,
+  "newKnowledgePoints": true,
+  "unlockedTowers": [
+    "DartMonkey",
+    "BombShooter",
+    "TackShooter",
+    "BoomerangMonkey",
+    "IceMonkey",
+    "GlueGunner",
+    "SniperMonkey",
+    "MonkeySub",
+    "MonkeyBuccaneer",
+    "MonkeyAce",
+    "HeliPilot",
+    "MortarMonkey",
+    "WizardMonkey",
+    "SuperMonkey",
+    "NinjaMonkey",
+    "Alchemist",
+    "Druid",
+    "BananaFarm",
+    "SpikeFactory",
+    "MonkeyVillage",
+    "EngineerMonkey",
+    "DartlingGunner"
+  ],
+  "unlockedHeroes": [
+    "Quincy",
+    "Gwendolin",
+    "StrikerJones",
+    "ObynGreenfoot",
+    "Etienne",
+    "CaptainChurchill",
+    "Benjamin",
+    "Ezili",
+    "PatFusty",
+    "Adora",
+    "AdmiralBrickell",
+    "Psi",
+    "Sauda"
+  ],
+  "unlockedTowerSkins": [
+    "Gwendolin",
+    "StrikerJones",
+    "ObynGreenfoot",
+    "Etienne",
+    "CaptainChurchill",
+    "Sentai Captain Churchill",
+    "Benjamin",
+    "Ezili",
+    "PatFusty",
+    "Adora",
+    "JoanOfArcAdora",
+    "AdmiralBrickell",
+    "DreadPirateBrickell",
+    "Cyber Quincy",
+    "Wolfpack Quincy",
+    "CircusGwendolin",
+    "Scientist Gwendolin",
+    "Octo Jones",
+    "Biker Bones",
+    "ObynOceanGuardian",
+    "MoltenObyn",
+    "BenJammin",
+    "SmudgeCatt",
+    "FustyTheSnowman",
+    "Psi",
+    "SushiBento",
+    "ETnEtienne",
+    "Sauda",
+    "VikingSauda",
+    "Psimbals",
+    "Galaxili",
+    "Quincy",
+    "JiangshiSauda"
+  ],
+  "seenUnlockedNotification": [
+    "Quincy",
+    "Gwendolin",
+    "StrikerJones",
+    "ObynGreenfoot",
+    "Etienne",
+    "CaptainChurchill",
+    "Benjamin",
+    "Ezili",
+    "PatFusty",
+    "Adora",
+    "AdmiralBrickell",
+    "Psi",
+    "Sauda"
+  ],
+  "seenUnlockedHeroes": [
+    "Quincy",
+    "Gwendolin",
+    "StrikerJones",
+    "ObynGreenfoot",
+    "Etienne",
+    "CaptainChurchill",
+    "Benjamin",
+    "Ezili",
+    "PatFusty",
+    "Adora",
+    "AdmiralBrickell",
+    "Psi",
+    "Sauda",
+    "Silas",
+    "Rosalia",
+    "Geraldo",
+    "Corvus"
+  ],
+  "seenNewTowerNotifications": [
+    "Desperado",
+    "DartlingGunner",
+    "Mermonkey",
+    "BeastHandler"
+  ],
+  "seenNewHeroNotification": [
+    "Quincy",
+    "Gwendolin",
+    "StrikerJones",
+    "ObynGreenfoot",
+    "Etienne",
+    "CaptainChurchill",
+    "Benjamin",
+    "Ezili",
+    "PatFusty",
+    "Adora",
+    "AdmiralBrickell",
+    "Psi",
+    "Sauda",
+    "Silas",
+    "Rosalia",
+    "Geraldo",
+    "Corvus"
+  ],
+  "seenNewTowerSkinNotification": [
+    "Sentai Captain Churchill",
+    "CaptainChurchill",
+    "Wolfpack Quincy",
+    "Cyber Quincy",
+    "CircusGwendolin",
+    "Scientist Gwendolin",
+    "Octo Jones",
+    "Biker Bones",
+    "MoltenObyn",
+    "ObynOceanGuardian",
+    "BenJammin",
+    "SmudgeCatt",
+    "FustyTheSnowman",
+    "JoanOfArcAdora",
+    "Adora",
+    "DreadPirateBrickell",
+    "Quincy",
+    "StrikerJones",
+    "AdmiralBrickell",
+    "SushiBento",
+    "ETnEtienne",
+    "VikingSauda",
+    "Sauda",
+    "Psimbals",
+    "Psi",
+    "ObynGreenfoot",
+    "Galaxili",
+    "Gwendolin",
+    "Etienne",
+    "JiangshiSauda"
+  ],
+  "mapInfo": {
+    "mapDifficultyLockedFlags": 1,
+    "mapDifficultyUnlockedFlags": 0,
+    "maps": {
+      "Tutorial": {
+        "seen": true,
+        "seenNew": true,
+        "seenNewDifficulty": false,
+        "completed": true,
+        "difficult": {
+          "Easy": {
+            "modes": {
+              "Standard": 1049230,
+              "PrimaryOnly": 1,
+              "Sandbox": 1,
+              "SuperChimps": 2
+            },
+            "coopModes": null
+          },
+          "Medium": {
+            "modes": {
+              "Standard": 1049788
+            },
+            "coopModes": null
+          },
+          "Hard": {
+            "modes": {
+              "Standard": 1050776
+            },
+            "coopModes": null
+          }
+        }
+      },
+      "TreeStump": {
+        "seen": true,
+        "seenNew": true,
+        "seenNewDifficulty": false,
+        "completed": true,
+        "difficult": {
+          "Easy": {
+            "modes": {
+              "Standard": 1049228
+            },
+            "coopModes": null
+          }
+        }
+      },
+      "TownCentre": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Skates": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": true,
+        "completed": false,
+        "difficult": null
+      },
+      "LotusIsland": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "CandyFalls": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "WinterPark": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Carved": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "ParkPath": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "AlpineRun": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "FrozenOver": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "InTheLoop": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Cubism": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "FourCircles": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Hedge": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "EndOfTheRoad": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": true,
+        "difficult": {
+          "Easy": {
+            "modes": null,
+            "coopModes": {
+              "Standard": 1051224
+            }
+          }
+        }
+      },
+      "Logs": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Encrypted": {
+        "seen": true,
+        "seenNew": true,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Bazaar": {
+        "seen": true,
+        "seenNew": true,
+        "seenNewDifficulty": false,
+        "completed": true,
+        "difficult": {
+          "Hard": {
+            "modes": {
+              "Standard": 1050188
+            },
+            "coopModes": null
+          }
+        }
+      },
+      "AdorasTemple": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "SpringSpring": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "KartsNDarts": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "MoonLanding": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Haunted": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Downstream": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "FiringRange": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Cracked": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Streambed": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Chutes": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Rake": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "SpiceIslands": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "XFactor": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": true,
+        "completed": false,
+        "difficult": null
+      },
+      "Mesa": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Geared": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Spillway": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Cargo": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "PatsPond": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Peninsula": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "HighFinance": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "AnotherBrick": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "OffTheCoast": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Cornfield": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": true,
+        "difficult": {
+          "Easy": {
+            "modes": null,
+            "coopModes": {
+              "Standard": 1049224
+            }
+          }
+        }
+      },
+      "Underground": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "FloodedValley": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Infernal": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "BloodyPuddles": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Workshop": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Quad": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "DarkCastle": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "MuddyPuddles": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "#ouch": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Resort": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Blons": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Balance": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Sanctuary": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Ravine": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "TheCabin": {
+        "seen": true,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "QuietStreet": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "BloonariusPrime": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "SunkenColumns": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "ProtectTheYacht": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "ThreeMinesAround": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "SpaPits": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Tinkerton": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "MiddleOfTheRoad": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "OneTwoTree": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Scrapyard": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "LostCrevasse": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "LuminousCove": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "SulfurSprings": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "WaterPark": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Polyphemus": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "CoveredGarden": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Quarry": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "SunsetGulch": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "EnchantedGlade": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "LastResort": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "AncientPortal": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "CastleRevenge": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "DarkPath": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "Erosion": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "MidnightMansion": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      },
+      "TrickyTracks": {
+        "seen": false,
+        "seenNew": false,
+        "seenNewDifficulty": false,
+        "completed": false,
+        "difficult": null
+      }
+    }
+  },
+  "UnlockAllModes": 0,
+  "seenEvents": [
+    "ft_activatedabilities",
+    "WelcomeHomeTrigger",
+    "coopModeUnlocked",
+    "Upgrade info",
+    "ft_regrowbloons",
+    "ft_monkeyknowledge",
+    "ft_blackbloons",
+    "ft_whitebloons",
+    "ft_camobloons",
+    "ft_purplebloons",
+    "ft_leadbloons",
+    "ft_camoreminder",
+    "ft_autostart",
+    "ft_ceramicbloons",
+    "ft_moabclassbloons",
+    "ft_fortifiedbloons",
+    "ft_sandboxmode",
+    "ft_ultimatepower",
+    "ft_bananafarm",
+    "ft_zomg",
+    "ft_bad",
+    "ParagonPanelViewedBoomerangMonkey",
+    "ParagonPanelViewedDartMonkey",
+    "Batch50ForceUnlock0xpTowerUpgradesCheck",
+    "ParagonPanelViewedIceMonkey",
+    "ParagonUpgradeAvailableDartMonkey",
+    "ParagonUpgradeAvailableBoomerangMonkey",
+    "ParagonPanelViewedBombShooter",
+    "ParagonUpgradeAvailableBombShooter",
+    "ParagonUpgradeAvailableIceMonkey",
+    "ParagonPanelViewedTackShooter",
+    "ParagonUpgradeAvailableTackShooter",
+    "ParagonPanelViewedMonkeySub",
+    "ParagonUpgradeAvailableMonkeySub",
+    "ParagonPanelViewedMonkeyBuccaneer",
+    "ParagonUpgradeAvailableMonkeyBuccaneer",
+    "ParagonPanelViewedMonkeyAce",
+    "ParagonUpgradeAvailableMonkeyAce",
+    "ParagonPanelViewedWizardMonkey",
+    "ParagonUpgradeAvailableWizardMonkey",
+    "ParagonPanelViewedNinjaMonkey",
+    "ParagonUpgradeAvailableNinjaMonkey",
+    "ParagonPanelViewedSpikeFactory",
+    "ParagonUpgradeAvailableSpikeFactory",
+    "ParagonPanelViewedEngineerMonkey",
+    "ParagonUpgradeAvailableEngineerMonkey",
+    "TutorialQuestPip",
+    "ft_monkeyteams",
+    "ft_powers",
+    "ft_targetprio",
+    "et_freeplay",
+    "ft_paragon",
+    "Co-op"
+  ],
+  "seenPowers": [
+    "SuperMonkeyBeacon",
+    "BananaFarmerPro"
+  ],
+  "paidUserStatus": 1,
+  "rateMeSkuVersionNumber": "4.0",
+  "countGamesSinceSkuRateMeChange": false,
+  "completedGamesSinceSkuRateMeChange": 0,
+  "completedGame": 8,
+  "selectedTowerSkinData": {
+    "Quincy": "Quincy",
+    "Gwendolin": "Gwendolin",
+    "StrikerJones": "Octo Jones",
+    "ObynGreenfoot": "MoltenObyn",
+    "CaptainChurchill": "Sentai Captain Churchill",
+    "Benjamin": "SushiBento",
+    "Ezili": "Galaxili",
+    "PatFusty": "FustyTheSnowman",
+    "Adora": "JoanOfArcAdora",
+    "AdmiralBrickell": "DreadPirateBrickell",
+    "Etienne": "Etienne",
+    "Sauda": "JiangshiSauda",
+    "Psi": "Psimbals",
+    "Geraldo": "Geraldo",
+    "Corvus": "Corvus",
+    "Rosalia": "Rosalia",
+    "Silas": "Silas"
+  },
+  "powers": {},
+  "powersData": {
+    "MoabMine": {
+      "quantity": 3,
+      "isNew": false
+    },
+    "MonkeyBoost": {
+      "quantity": 11,
+      "isNew": false
+    },
+    "SuperMonkeyStorm": {
+      "quantity": 25,
+      "isNew": false
+    },
+    "DartTime": {
+      "quantity": 9,
+      "isNew": false
+    },
+    "CamoTrap": {
+      "quantity": 9,
+      "isNew": false
+    },
+    "RoadSpikes": {
+      "quantity": 28,
+      "isNew": false
+    },
+    "CashDrop": {
+      "quantity": 13,
+      "isNew": false
+    },
+    "PortableLake": {
+      "quantity": 0,
+      "isNew": false
+    },
+    "TechBot": {
+      "quantity": 7,
+      "isNew": false
+    },
+    "GlueTrap": {
+      "quantity": 4,
+      "isNew": false
+    },
+    "EnergisingTotem": {
+      "quantity": 1,
+      "isNew": false
+    },
+    "Thrive": {
+      "quantity": 2,
+      "isNew": false
+    },
+    "BananaFarmer": {
+      "quantity": 27,
+      "isNew": false
+    },
+    "Pontoon": {
+      "quantity": 24,
+      "isNew": false
+    },
+    "SuperMonkeyBeacon": {
+      "quantity": 43,
+      "isNew": false
+    },
+    "BananaFarmerPro": {
+      "quantity": 138,
+      "isNew": false
+    }
+  },
+  "instaTowers": {
+    "BombShooter": [
+      102400,
+      115400,
+      1034000
+    ],
+    "SniperMonkey": [
+      1032000
+    ],
+    "DartMonkey": [
+      1030000,
+      11540000
+    ],
+    "MonkeyBuccaneer": [
+      1088000
+    ],
+    "SuperMonkey": [
+      1030000,
+      1027
+    ],
+    "TackShooter": [
+      1090000
+    ],
+    "MonkeySub": [
+      1156000,
+      1169000
+    ],
+    "MonkeyAce": [
+      1074000,
+      1026000
+    ],
+    "WizardMonkey": [
+      1536000
+    ],
+    "MortarMonkey": [
+      1536000,
+      12800000
+    ],
+    "DartlingGunner": [
+      1030000,
+      1072000,
+      1408000
+    ],
+    "BoomerangMonkey": [
+      1284000
+    ],
+    "GlueGunner": [
+      10440000
+    ],
+    "SpikeFactory": [
+      1288
+    ],
+    "BeastHandler": [
+      1155
+    ]
+  },
+  "savedMaps": {},
+  "isPendingNoLinkIdMigration": false,
+  "noLinkIdVersion": 2,
+  "ownerID": "no_linkfb9ee97bd970726187603c77bb4aead3f47fc648",
+  "trophiesWalletId": "199f8abe-caca-48ef-9ef2-01553bb38257",
+  "teamTrophiesWalletId": null,
+  "unclaimedTrophies": [],
+  "timeStamp": "2026-02-14T10:17:41.3619235+11:00",
+  "monkeyMoney": 510032766,
+  "xp": 881379.0044326782,
+  "rank": 41,
+  "veteranXp": 0,
+  "veteranRank": 0,
+  "seenVeteranRankInfo": false,
+  "levelCapWas": 155,
+  "trophies": 48400,
+  "lifetimeTrophies": 0,
+  "lifetimeTeamTrophies": 0,
+  "knowledgePoints": 10,
+  "primaryHero": "Sauda",
+  "secondaryHero": null,
+  "achievementsProgress": {
+    "1": 1943228,
+    "2": 25000,
+    "3": 10000,
+    "4": 5000,
+    "5": 5000,
+    "6": 803234,
+    "7": 1,
+    "8": 3,
+    "9": 1,
+    "10": 1,
+    "11": 1,
+    "13": 1,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "17": 1,
+    "18": 20,
+    "19": 4,
+    "20": 1,
+    "21": 25,
+    "22": 100,
+    "26": 10,
+    "37": 0.5,
+    "38": 4,
+    "39": 100000,
+    "40": 250000,
+    "41": 12,
+    "50": 1000,
+    "51": 1,
+    "52": 1,
+    "53": 1,
+    "54": 1,
+    "56": 10000,
+    "57": 50000,
+    "58": 100000,
+    "59": 1000000,
+    "60": 10,
+    "61": 100,
+    "62": 5,
+    "63": 1506640,
+    "64": 1,
+    "68": 1,
+    "69": 500,
+    "73": 200,
+    "74": 100,
+    "75": 200000,
+    "76": 252242,
+    "77": 10000,
+    "78": 1,
+    "81": 1,
+    "82": 20000,
+    "83": 1,
+    "85": 1,
+    "87": 1,
+    "88": 1,
+    "89": 200,
+    "90": 4,
+    "91": 1,
+    "93": 1,
+    "95": 1,
+    "97": 50,
+    "98": 100,
+    "99": 1,
+    "100": 1,
+    "101": 1,
+    "103": 250000,
+    "107": 1,
+    "108": 3000,
+    "110": 1000000,
+    "112": 1,
+    "113": 100,
+    "115": 20000,
+    "117": 35,
+    "118": 397,
+    "120": 12,
+    "131": 1,
+    "138": 5813,
+    "147": 75,
+    "149": 5368709,
+    "151": 401626
+  },
+  "achievementsClaimed": [
+    2,
+    3,
+    4,
+    5,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    26,
+    39,
+    40,
+    50,
+    51,
+    52,
+    53,
+    54,
+    56,
+    57,
+    58,
+    60,
+    61,
+    68,
+    62,
+    69,
+    73,
+    74,
+    75,
+    77,
+    81,
+    82,
+    83,
+    87,
+    88,
+    91,
+    93,
+    95,
+    97,
+    98,
+    99,
+    101,
+    103,
+    108,
+    110,
+    112,
+    113,
+    115,
+    7,
+    13,
+    41,
+    14,
+    9,
+    117,
+    89,
+    100,
+    149
+  ],
+  "achievementsSeen": [
+    2,
+    3,
+    4,
+    5,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    26,
+    39,
+    40,
+    50,
+    51,
+    52,
+    53,
+    54,
+    56,
+    57,
+    58,
+    60,
+    61,
+    62,
+    68,
+    69,
+    73,
+    74,
+    75,
+    77,
+    81,
+    82,
+    83,
+    87,
+    88,
+    91,
+    93,
+    95,
+    97,
+    98,
+    99,
+    101,
+    103,
+    108,
+    110,
+    112,
+    113,
+    115,
+    7,
+    13,
+    41,
+    14,
+    9,
+    117,
+    89,
+    100,
+    149
+  ],
+  "achievementsPostedToXBoxLive": [],
+  "achievementsPostedToGooglePlay": [],
+  "analyticsKonFuze": {
+    "heroesPlacedByName": {
+      "": 0,
+      "Quincy": 1,
+      "CaptainChurchill": 2,
+      "Sauda": 3,
+      "Psi": 0
+    },
+    "towersPlacedByBaseName": {
+      "DartMonkey": 14,
+      "Quincy": 2,
+      "BombShooter": 6,
+      "SniperMonkey": 12,
+      "CaptainChurchill": 2,
+      "SuperMonkey": 11,
+      "DartlingGunner": 11,
+      "TackShooter": 7,
+      "BoomerangMonkey": 8,
+      "IceMonkey": 2,
+      "GlueGunner": 2,
+      "MonkeySub": 3,
+      "MonkeyBuccaneer": 18,
+      "MonkeyAce": 1,
+      "WizardMonkey": 3,
+      "HeliPilot": 2,
+      "MortarMonkey": 3,
+      "NinjaMonkey": 1,
+      "Alchemist": 1,
+      "Druid": 3,
+      "BananaFarm": 22,
+      "SpikeFactory": 1,
+      "MonkeyVillage": 4,
+      "EngineerMonkey": 1,
+      "Sauda": 3
+    },
+    "upgradesPurchasedByTier": {
+      "1": 249,
+      "2": 240,
+      "3": 116,
+      "4": 96,
+      "5": 45
+    },
+    "heroUpgradesPurchasedByTier": {
+      "2": 5,
+      "3": 7,
+      "4": 7,
+      "5": 7,
+      "6": 7,
+      "7": 4,
+      "8": 4,
+      "9": 4,
+      "10": 4,
+      "11": 4,
+      "12": 3,
+      "13": 3,
+      "14": 3,
+      "15": 3,
+      "16": 3,
+      "17": 3,
+      "18": 3,
+      "19": 3,
+      "20": 3
+    },
+    "abilitiesActivatedByName": {
+      "Rapid Shot": 1,
+      "Armor Piercing Shells": 2,
+      "ChampionDarkshift": 2,
+      "Tech Terror": 3,
+      "Leaping Sword Attack": 3,
+      "Sword Charge": 1,
+      "Jungle's Bounty": 9,
+      "Homeland Defense": 2,
+      "": 4,
+      "ZOMG Takedown": 4,
+      "Retaliation": 1,
+      "Rallying Roar": 1,
+      "Large BAD Harpoon": 2
+    },
+    "heroLevelsByName": {
+      "": 10,
+      "Quincy": 6,
+      "CaptainChurchill": 20,
+      "Sauda": 6,
+      "Psi": 20
+    },
+    "heroWonCount": {
+      "Quincy": 1,
+      "CaptainChurchill": 1,
+      "Sauda": 3,
+      "PatFusty": 1
+    },
+    "powerHistory": {
+      "MoabMine": 3,
+      "MonkeyBoost": 11,
+      "SuperMonkeyStorm": 7,
+      "DartTime": 4,
+      "CamoTrap": 9,
+      "RoadSpikes": 28,
+      "CashDrop": 13,
+      "PortableLake": 3,
+      "TechBot": 5,
+      "GlueTrap": 4,
+      "EnergisingTotem": 1,
+      "Thrive": 2
+    },
+    "monkeyTypeWins": {
+      "Primary": 900427
+    },
+    "gameID": 14,
+    "gamesPlayed": 11,
+    "bloonsPopped": 1943228,
+    "moabsPopped": 1076168,
+    "bfbsPopped": 598705,
+    "zomgsPopped": 409460,
+    "ddtsPopped": 354056,
+    "badsPopped": 789595,
+    "fortifiedPopped": 803234,
+    "purplesPopped": 263044,
+    "camosPopped": 1029817,
+    "bossesPopped": 0,
+    "ceramicsPopped": 93534,
+    "regrowPopped": 190465,
+    "leadPopped": 3311,
+    "totalTowersPlaced": 143,
+    "totalTowersSold": 120,
+    "totalPowersActivated": 328548,
+    "totalUpgradesPurchased": 827,
+    "totalAbilitiesActivated": 35,
+    "timesHeroPlaced": 120496,
+    "timesHeroSold": 3,
+    "timesGameRestarted": 0,
+    "thirdLevelHeroAbilityUsed": 1,
+    "tenthLevelHeroAbilityUsed": 1,
+    "monkeyMoneyEarned": 936,
+    "cashEarned": 58863970.65203497,
+    "ecoEarned": 0,
+    "instaMonkeysUsed": 0,
+    "bloonsLeaked": 250059,
+    "namedMonkeyStats": {},
+    "damageDoneToBosses": 0,
+    "basicStats": {
+      "heroesPlacedByName": {
+        "": 0,
+        "Quincy": 1,
+        "CaptainChurchill": 2,
+        "Sauda": 3,
+        "Psi": 0
+      },
+      "towersPlacedByBaseName": {
+        "DartMonkey": 14,
+        "Quincy": 2,
+        "BombShooter": 6,
+        "SniperMonkey": 12,
+        "CaptainChurchill": 2,
+        "SuperMonkey": 11,
+        "DartlingGunner": 11,
+        "TackShooter": 7,
+        "BoomerangMonkey": 8,
+        "IceMonkey": 2,
+        "GlueGunner": 2,
+        "MonkeySub": 3,
+        "MonkeyBuccaneer": 18,
+        "MonkeyAce": 1,
+        "WizardMonkey": 3,
+        "HeliPilot": 2,
+        "MortarMonkey": 3,
+        "NinjaMonkey": 1,
+        "Alchemist": 1,
+        "Druid": 3,
+        "BananaFarm": 22,
+        "SpikeFactory": 1,
+        "MonkeyVillage": 4,
+        "EngineerMonkey": 1,
+        "Sauda": 3
+      },
+      "upgradesPurchasedByTier": {
+        "1": 249,
+        "2": 240,
+        "3": 116,
+        "4": 96,
+        "5": 45
+      },
+      "heroUpgradesPurchasedByTier": {
+        "2": 5,
+        "3": 7,
+        "4": 7,
+        "5": 7,
+        "6": 7,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 3,
+        "13": 3,
+        "14": 3,
+        "15": 3,
+        "16": 3,
+        "17": 3,
+        "18": 3,
+        "19": 3,
+        "20": 3
+      },
+      "abilitiesActivatedByName": {
+        "Rapid Shot": 1,
+        "Armor Piercing Shells": 2,
+        "ChampionDarkshift": 2,
+        "Tech Terror": 3,
+        "Leaping Sword Attack": 3,
+        "Sword Charge": 1,
+        "Jungle's Bounty": 9,
+        "Homeland Defense": 2,
+        "": 4,
+        "ZOMG Takedown": 4,
+        "Retaliation": 1,
+        "Rallying Roar": 1,
+        "Large BAD Harpoon": 2
+      },
+      "heroLevelsByName": {
+        "": 10,
+        "Quincy": 6,
+        "CaptainChurchill": 20,
+        "Sauda": 6,
+        "Psi": 20
+      },
+      "heroWonCount": {
+        "Quincy": 1,
+        "CaptainChurchill": 1,
+        "Sauda": 3,
+        "PatFusty": 1
+      },
+      "powerHistory": {
+        "TechBot": 2,
+        "DartTime": 5,
+        "BananaFarmer": 27,
+        "Pontoon": 24,
+        "SuperMonkeyStorm": 18,
+        "SuperMonkeyBeacon": 43,
+        "BananaFarmerPro": 140
+      },
+      "monkeyTypeWins": {
+        "Primary": 900427
+      },
+      "gameID": 14,
+      "gamesPlayed": 11,
+      "bloonsPopped": 1943228,
+      "moabsPopped": 1076168,
+      "bfbsPopped": 598705,
+      "zomgsPopped": 409460,
+      "ddtsPopped": 354056,
+      "badsPopped": 789595,
+      "fortifiedPopped": 803234,
+      "purplesPopped": 263044,
+      "camosPopped": 1029817,
+      "bossesPopped": 0,
+      "bossTypesPopped": {},
+      "ceramicsPopped": 93534,
+      "regrowPopped": 190465,
+      "leadPopped": 3311,
+      "frontierSpecialBloons": {},
+      "totalTowersPlaced": 143,
+      "totalTowersSold": 120,
+      "totalPowersActivated": 328548,
+      "totalUpgradesPurchased": 827,
+      "totalAbilitiesActivated": 35,
+      "timesHeroPlaced": 120496,
+      "timesHeroSold": 3,
+      "timesGameRestarted": 0,
+      "thirdLevelHeroAbilityUsed": 1,
+      "tenthLevelHeroAbilityUsed": 1,
+      "monkeyMoneyEarned": 936,
+      "cashEarned": 58863970.65203497,
+      "ecoEarned": 0,
+      "instaMonkeysUsed": 0,
+      "bloonsLeaked": 250059,
+      "namedMonkeyStats": {},
+      "damageDoneToBosses": 0
+    },
+    "basicStatsFiller": {
+      "heroesPlacedByName": {},
+      "towersPlacedByBaseName": {},
+      "upgradesPurchasedByTier": {},
+      "heroUpgradesPurchasedByTier": {},
+      "abilitiesActivatedByName": {},
+      "heroLevelsByName": {},
+      "heroWonCount": {},
+      "powerHistory": {},
+      "monkeyTypeWins": {},
+      "gameID": 0,
+      "gamesPlayed": 0,
+      "bloonsPopped": 0,
+      "moabsPopped": 0,
+      "bfbsPopped": 0,
+      "zomgsPopped": 0,
+      "ddtsPopped": 0,
+      "badsPopped": 0,
+      "fortifiedPopped": 0,
+      "purplesPopped": 0,
+      "camosPopped": 0,
+      "bossesPopped": 0,
+      "bossTypesPopped": {},
+      "ceramicsPopped": 0,
+      "regrowPopped": 0,
+      "leadPopped": 0,
+      "frontierSpecialBloons": {},
+      "totalTowersPlaced": 0,
+      "totalTowersSold": 0,
+      "totalPowersActivated": 0,
+      "totalUpgradesPurchased": 0,
+      "totalAbilitiesActivated": 0,
+      "timesHeroPlaced": 0,
+      "timesHeroSold": 0,
+      "timesGameRestarted": 0,
+      "thirdLevelHeroAbilityUsed": 0,
+      "tenthLevelHeroAbilityUsed": 0,
+      "monkeyMoneyEarned": 0,
+      "cashEarned": 0,
+      "ecoEarned": 0,
+      "instaMonkeysUsed": 0,
+      "bloonsLeaked": 0,
+      "namedMonkeyStats": {},
+      "damageDoneToBosses": 0
+    },
+    "coopMaxHeroesPlacedOnScreen": 2,
+    "coopBloonsPopped": 1506640,
+    "coopPowersUsed": 620141,
+    "coopInstaMonkeysUsed": 958456,
+    "coopCashGiven": 1030977,
+    "coopMapsBeaten": 2,
+    "coop2PlayerMapsBeaten": 152159,
+    "coop3PlayerMapsBeaten": 681595,
+    "coop4PlayerMapsBeaten": 633622,
+    "coopCashRecieved": 458102.7938863784,
+    "coopCashSent": 53705.5,
+    "reportedFirstSession": 1,
+    "reportedFirstPurchase": 0,
+    "bloonPopsOnPeninsula": 309753,
+    "bloonPopsMasterAlchemist": 252242,
+    "bloonsRevealedByShimmer": 963058,
+    "masterOfLife": 1,
+    "rainbowBloonsPoppedWithMagic": 318386,
+    "whatDidItCostTowers": [
+      "SuperMonkey"
+    ],
+    "adoraDarkTempleTransformed": 1,
+    "axisOfHavok": 1,
+    "kaliMaa": 1,
+    "necroBloonsReanimated": 413348,
+    "toolsToDarwinUpgradeCount": 657682,
+    "instaCenturyTowerCount": 354225,
+    "tier5InstasUsed": 759252,
+    "dartlingGunnerPops": 1429747,
+    "crashOfTheTitansCount": 930323,
+    "moabTakedownsCount": 397,
+    "redeployChinookCount": 0,
+    "paragonsPurchasedByName": {
+      "MonkeyBuccaneer": 1
+    },
+    "perfectParagon": 0,
+    "criticalHits": 5813,
+    "studentLoans": 0,
+    "gluedBloons": 0,
+    "illBeBackMoneySpent": 0,
+    "dailyReidCount": 0,
+    "legendsStatsByName": {
+      "Rogue": {
+        "basicStats": {
+          "heroesPlacedByName": {},
+          "towersPlacedByBaseName": {},
+          "upgradesPurchasedByTier": {},
+          "heroUpgradesPurchasedByTier": {},
+          "abilitiesActivatedByName": {},
+          "heroLevelsByName": {},
+          "heroWonCount": {},
+          "powerHistory": {},
+          "monkeyTypeWins": {},
+          "gameID": 0,
+          "gamesPlayed": 0,
+          "bloonsPopped": 0,
+          "moabsPopped": 0,
+          "bfbsPopped": 0,
+          "zomgsPopped": 0,
+          "ddtsPopped": 0,
+          "badsPopped": 0,
+          "fortifiedPopped": 0,
+          "purplesPopped": 0,
+          "camosPopped": 0,
+          "bossesPopped": 0,
+          "bossTypesPopped": {},
+          "ceramicsPopped": 0,
+          "regrowPopped": 0,
+          "leadPopped": 0,
+          "frontierSpecialBloons": {},
+          "totalTowersPlaced": 0,
+          "totalTowersSold": 0,
+          "totalPowersActivated": 0,
+          "totalUpgradesPurchased": 0,
+          "totalAbilitiesActivated": 0,
+          "timesHeroPlaced": 0,
+          "timesHeroSold": 0,
+          "timesGameRestarted": 0,
+          "thirdLevelHeroAbilityUsed": 0,
+          "tenthLevelHeroAbilityUsed": 0,
+          "monkeyMoneyEarned": 0,
+          "cashEarned": 0,
+          "ecoEarned": 0,
+          "instaMonkeysUsed": 0,
+          "bloonsLeaked": 0,
+          "namedMonkeyStats": {},
+          "damageDoneToBosses": 0
+        },
+        "tilesCaptured": 0,
+        "tilesCapturedWithinCampaign": 0,
+        "bossesDefeated": 0,
+        "winsByTileType": {},
+        "fullParty": 0,
+        "campaignMapsWon": 0,
+        "loops": 0,
+        "masterBlacksmith": 0,
+        "overgeared": 0,
+        "perfectAdventure": 0,
+        "perfectTrade": 0,
+        "extractedArtifacts": 0,
+        "totalBoostMonkeys": 0,
+        "totalArtifacts": 0,
+        "trainingWeights": 0,
+        "tomfoolery": 0,
+        "tier5sAcrossAll": [],
+        "miniGameTilesCompleted": [],
+        "legendaryBoostTypesCollected": [],
+        "towerTypesPlaced": [],
+        "commonArtifactsCollected": 0,
+        "rareArtifactsCollected": 0,
+        "legendaryArtifactsCollected": 0,
+        "commonBoostsCollected": 0,
+        "rareBoostsCollected": 0,
+        "legendaryBoostsCollected": 0,
+        "firstActCleared": 0,
+        "secondActCleared": 0,
+        "captureBountyBloonsInARow": 0,
+        "winQuickdrawAcrossAll": 0,
+        "spendStaminaAcrossAll": 0,
+        "walkTotalAcrossAll": 0,
+        "hireTotalAcrossAll": 0,
+        "spendGoldInGeneralStore": 0,
+        "hireLegendsAcrossAll": 0,
+        "collectFishType": [],
+        "collectShineyLegendaryFish": 0
+      },
+      "Frontier": {
+        "basicStats": {
+          "heroesPlacedByName": {},
+          "towersPlacedByBaseName": {},
+          "upgradesPurchasedByTier": {},
+          "heroUpgradesPurchasedByTier": {},
+          "abilitiesActivatedByName": {},
+          "heroLevelsByName": {},
+          "heroWonCount": {},
+          "powerHistory": {},
+          "monkeyTypeWins": {},
+          "gameID": 0,
+          "gamesPlayed": 0,
+          "bloonsPopped": 0,
+          "moabsPopped": 0,
+          "bfbsPopped": 0,
+          "zomgsPopped": 0,
+          "ddtsPopped": 0,
+          "badsPopped": 0,
+          "fortifiedPopped": 0,
+          "purplesPopped": 0,
+          "camosPopped": 0,
+          "bossesPopped": 0,
+          "bossTypesPopped": {},
+          "ceramicsPopped": 0,
+          "regrowPopped": 0,
+          "leadPopped": 0,
+          "frontierSpecialBloons": {},
+          "totalTowersPlaced": 0,
+          "totalTowersSold": 0,
+          "totalPowersActivated": 0,
+          "totalUpgradesPurchased": 0,
+          "totalAbilitiesActivated": 0,
+          "timesHeroPlaced": 0,
+          "timesHeroSold": 0,
+          "timesGameRestarted": 0,
+          "thirdLevelHeroAbilityUsed": 0,
+          "tenthLevelHeroAbilityUsed": 0,
+          "monkeyMoneyEarned": 0,
+          "cashEarned": 0,
+          "ecoEarned": 0,
+          "instaMonkeysUsed": 0,
+          "bloonsLeaked": 0,
+          "namedMonkeyStats": {},
+          "damageDoneToBosses": 0
+        },
+        "tilesCaptured": 0,
+        "tilesCapturedWithinCampaign": 0,
+        "bossesDefeated": 0,
+        "winsByTileType": {},
+        "fullParty": 0,
+        "campaignMapsWon": 0,
+        "loops": 0,
+        "masterBlacksmith": 0,
+        "overgeared": 0,
+        "perfectAdventure": 0,
+        "perfectTrade": 0,
+        "extractedArtifacts": 0,
+        "totalBoostMonkeys": 0,
+        "totalArtifacts": 0,
+        "trainingWeights": 0,
+        "tomfoolery": 0,
+        "tier5sAcrossAll": [],
+        "miniGameTilesCompleted": [],
+        "legendaryBoostTypesCollected": [],
+        "towerTypesPlaced": [],
+        "commonArtifactsCollected": 0,
+        "rareArtifactsCollected": 0,
+        "legendaryArtifactsCollected": 0,
+        "commonBoostsCollected": 0,
+        "rareBoostsCollected": 0,
+        "legendaryBoostsCollected": 0,
+        "firstActCleared": 0,
+        "secondActCleared": 0,
+        "captureBountyBloonsInARow": 0,
+        "winQuickdrawAcrossAll": 0,
+        "spendStaminaAcrossAll": 0,
+        "walkTotalAcrossAll": 0,
+        "hireTotalAcrossAll": 0,
+        "spendGoldInGeneralStore": 0,
+        "hireLegendsAcrossAll": 0,
+        "collectFishType": [],
+        "collectShineyLegendaryFish": 0
+      }
+    },
+    "hasTransferredStatsV49": true,
+    "hasPlacedVtsg": 0,
+    "caveMonkeyRestingPlaceHits": 0
+  },
+  "highestSeenRound": 166,
+  "highestSeenRoundCurrentVersion": 166,
+  "purchase": {
+    "purchaseLoot": [
+      {
+        "productID": "btd6_knowledgeunlocked",
+        "loot": "InstaRank:30#KnowledgePoints:5"
+      }
+    ],
+    "purchasedDoubleCashMode": false,
+    "consumedValidations": [],
+    "validationVerion": 1,
+    "purchasedNonConsumables": null,
+    "purchasedOnetimeConsumables": null,
+    "purchasedOneTimeItems": [
+      "btd6_legendsrogue",
+      "btd6_legendsfrontier"
+    ]
+  },
+  "lastReceivedInboxMessage": null,
+  "dailyRewardIndex": 4,
+  "lastSavedUTCTime": "0001-01-01T00:00:00",
+  "nextDailyRewardDateTime": "2026-02-13T16:00:00",
+  "totalDailyChallengesCompleted": 0,
+  "consecutiveDailyChallengesCompleted": 0,
+  "uniqueCompletedDailyChallengeIds": [],
+  "raceMedalData": {},
+  "bossBadgeData": null,
+  "bossMedals": {},
+  "bossLeaderboardMedals": {},
+  "bossLeaderboardEliteMedals": {},
+  "ctLeaderboardBadges": null,
+  "ctGlobalLeaderboardBadges": null,
+  "seenMiniRace": false,
+  "totalRacesEntered": 269431,
+  "raceBestTimeForAchievements": 854146,
+  "challengeEditorModel": null,
+  "mapEditorData": null,
+  "hasUnlockedMapEditor": false,
+  "unlockedPropPacks": [],
+  "seenMapEditorInfoPopup": false,
+  "seenMapBrowser": false,
+  "seenGameBrowser": false,
+  "autosetSpecialConditions": false,
+  "submittedChallengeEditorID": null,
+  "submittedOdysseyEditorID": null,
+  "seenChallengeModifiedPopup": false,
+  "inGameSettings": {
+    "doubleCash": false,
+    "autoPlay": false,
+    "lineOfSight": true,
+    "dropAndLock": false,
+    "gameHints": true,
+    "queueRogueBoosts": false
+  },
+  "languageCode": "English",
+  "challengesPlayed": 1063156,
+  "challengesShared": 715902,
+  "winsWithCustomHeroSkin": 1093550,
+  "billGreates": 1030061,
+  "aCrateTime": 611320,
+  "collectionEventMapBonusData": {
+    "bonusesByDifficulty": {}
+  },
+  "odysseySaveData": {
+    "activeOdysey": {
+      "hasStarted": false,
+      "chosenDifficulty": 0,
+      "livesRemaining": 150,
+      "isExtreme": false,
+      "timeTaken": 0,
+      "popCount": 0,
+      "cashGenerated": 0,
+      "moabsPopped": 0,
+      "abilitiesUsed": 0,
+      "odysseyMapDataHistory": {},
+      "towersUseMapHistory": {},
+      "powersUseMapHistory": {},
+      "canMoProblems": 0,
+      "currentOdyseyMapSaveIndex": 0,
+      "mapSave": null
+    },
+    "difficultySaveData": {
+      "0": {
+        "mmRewardsEarnedForMap": {},
+        "awardedRewards": false,
+        "awardedTrophies": false,
+        "replayingOdysseyEnabled": false,
+        "monkeysSelected": {
+          "Quincy": 1,
+          "DartMonkey": 15
+        },
+        "powersSelected": {
+          "BananaFarmer": 2,
+          "CamoTrap": 2,
+          "GlueTrap": 2,
+          "MonkeyBoost": 3,
+          "RoadSpikes": 8,
+          "SuperMonkeyStorm": 3,
+          "DartTime": 2,
+          "TechBot": 2
+        },
+        "completedDifficulty": false,
+        "odysseyCompletedSaveData": {
+          "hasStarted": false,
+          "chosenDifficulty": 0,
+          "livesRemaining": null,
+          "isExtreme": false,
+          "timeTaken": 0,
+          "popCount": 0,
+          "cashGenerated": 0,
+          "moabsPopped": 0,
+          "abilitiesUsed": 0,
+          "odysseyMapDataHistory": {
+            "0": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "1": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "2": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "3": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "4": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            }
+          },
+          "towersUseMapHistory": {},
+          "powersUseMapHistory": {},
+          "canMoProblems": null,
+          "currentOdyseyMapSaveIndex": 0,
+          "mapSave": null
+        }
+      },
+      "1": {
+        "mmRewardsEarnedForMap": {},
+        "awardedRewards": false,
+        "awardedTrophies": false,
+        "replayingOdysseyEnabled": false,
+        "monkeysSelected": {
+          "Quincy": 1,
+          "DartMonkey": 15
+        },
+        "powersSelected": {
+          "BananaFarmer": 2,
+          "CamoTrap": 2,
+          "GlueTrap": 2,
+          "MonkeyBoost": 3,
+          "RoadSpikes": 8,
+          "SuperMonkeyStorm": 3,
+          "DartTime": 2,
+          "TechBot": 2
+        },
+        "completedDifficulty": false,
+        "odysseyCompletedSaveData": {
+          "hasStarted": false,
+          "chosenDifficulty": 0,
+          "livesRemaining": null,
+          "isExtreme": false,
+          "timeTaken": 0,
+          "popCount": 0,
+          "cashGenerated": 0,
+          "moabsPopped": 0,
+          "abilitiesUsed": 0,
+          "odysseyMapDataHistory": {
+            "0": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "1": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "2": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "3": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "4": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            }
+          },
+          "towersUseMapHistory": {},
+          "powersUseMapHistory": {},
+          "canMoProblems": null,
+          "currentOdyseyMapSaveIndex": 0,
+          "mapSave": null
+        }
+      },
+      "2": {
+        "mmRewardsEarnedForMap": {},
+        "awardedRewards": false,
+        "awardedTrophies": false,
+        "replayingOdysseyEnabled": false,
+        "monkeysSelected": {
+          "Quincy": 1,
+          "DartMonkey": 15
+        },
+        "powersSelected": {
+          "BananaFarmer": 2,
+          "CamoTrap": 2,
+          "GlueTrap": 2,
+          "MonkeyBoost": 3,
+          "RoadSpikes": 8,
+          "SuperMonkeyStorm": 3,
+          "DartTime": 2,
+          "TechBot": 2
+        },
+        "completedDifficulty": false,
+        "odysseyCompletedSaveData": {
+          "hasStarted": false,
+          "chosenDifficulty": 0,
+          "livesRemaining": null,
+          "isExtreme": false,
+          "timeTaken": 0,
+          "popCount": 0,
+          "cashGenerated": 0,
+          "moabsPopped": 0,
+          "abilitiesUsed": 0,
+          "odysseyMapDataHistory": {
+            "0": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "1": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "2": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "3": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            },
+            "4": {
+              "hasSeenIslandTransition": false,
+              "hasSeenMapCompletedEvent": false,
+              "mapCompleted": false,
+              "livesHistory": 0
+            }
+          },
+          "towersUseMapHistory": {},
+          "powersUseMapHistory": {},
+          "canMoProblems": null,
+          "currentOdyseyMapSaveIndex": 0,
+          "mapSave": null
+        }
+      }
+    },
+    "seenFirstTimePopup": true,
+    "embarkedOnAnOdyssey": 0,
+    "startTime": "0001-01-01T00:00:00",
+    "isInitialized": true,
+    "playerChallengeId": "mlh1uek6",
+    "playerChallengeType": 1,
+    "isCreationMode": false,
+    "dailyChallengeEventID": null
+  },
+  "odysseyEditorSaveData": null,
+  "odysseysEditorData": null,
+  "embarkedOdysseyEditorDcm": null,
+  "completedOdysseys": {},
+  "totalCompletedOdysseys": 603953,
+  "cancelledFacebookFriendsPopup": false,
+  "coopQuickMatchSetting": 5,
+  "coopMatchSetToPrivate": false,
+  "currentCoopGameDetails": null,
+  "hotkeysData": null,
+  "hotkeysData2": {
+    "monkeys": {
+      "DartMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/q"
+      },
+      "BoomerangMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/w"
+      },
+      "BombShooter": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/e"
+      },
+      "TackShooter": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/r"
+      },
+      "IceMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/t"
+      },
+      "GlueGunner": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/y"
+      },
+      "SniperMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/z"
+      },
+      "MonkeySub": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/x"
+      },
+      "MonkeyBuccaneer": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/c"
+      },
+      "MonkeyAce": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/v"
+      },
+      "HeliPilot": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/b"
+      },
+      "MortarMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/n"
+      },
+      "DartlingGunner": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/m"
+      },
+      "WizardMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/a"
+      },
+      "SuperMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/s"
+      },
+      "NinjaMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/d"
+      },
+      "Alchemist": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/f"
+      },
+      "Druid": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/g"
+      },
+      "BananaFarm": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/h"
+      },
+      "EngineerMonkey": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/l"
+      },
+      "SpikeFactory": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/j"
+      },
+      "MonkeyVillage": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/k"
+      },
+      "Heroes": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/u"
+      },
+      "Upgrade Path 1": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Comma"
+      },
+      "Upgrade Path 2": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Period"
+      },
+      "Upgrade Path 3": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Slash"
+      },
+      "ChangeTargeting": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Tab"
+      },
+      "ReverseChangeTargeting": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/Tab"
+      },
+      "TowerSpecial": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/PageDown"
+      },
+      "Desperado": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "Mermonkey": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "BeastHandler": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/i"
+      },
+      "TowerSpecial2": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/PageUp"
+      }
+    },
+    "gameplay": {
+      "Sell": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Backspace"
+      },
+      "PlayFastForward": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Space"
+      },
+      "SendNextRound": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/Space"
+      },
+      "Pause": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Backquote"
+      },
+      "Activated Ability 1": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/1"
+      },
+      "Activated Ability 2": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/2"
+      },
+      "Activated Ability 3": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/3"
+      },
+      "Activated Ability 4": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/4"
+      },
+      "Activated Ability 5": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/5"
+      },
+      "Activated Ability 6": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/6"
+      },
+      "Activated Ability 7": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/7"
+      },
+      "Activated Ability 8": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/8"
+      },
+      "Activated Ability 9": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/9"
+      },
+      "Activated Ability 10": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/0"
+      },
+      "Activated Ability 11": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Minus"
+      },
+      "Activated Ability 12": {
+        "modifierKey": 0,
+        "path": "<Keyboard>/Equals"
+      },
+      "RoadSpikes": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/1"
+      },
+      "MoabMine": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/2"
+      },
+      "GlueTrap": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/3"
+      },
+      "CamoTrap": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/4"
+      },
+      "BananaFarmer": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/5"
+      },
+      "TechBot": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/6"
+      },
+      "EnergisingTotem": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/7"
+      },
+      "Pontoon": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/8"
+      },
+      "PortableLake": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/9"
+      },
+      "SuperMonkeyStorm": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/0"
+      },
+      "MonkeyBoost": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/Minus"
+      },
+      "Thrive": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/Equals"
+      },
+      "DartTime": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/LeftBracket"
+      },
+      "CashDrop": {
+        "modifierKey": 1,
+        "path": "<Keyboard>/RightBracket"
+      },
+      "Copy": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/c"
+      }
+    },
+    "sandbox": {
+      "SendRedBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/1"
+      },
+      "SendBlueBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/2"
+      },
+      "SendGreenBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/3"
+      },
+      "SendYellowBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/4"
+      },
+      "SendPinkBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/5"
+      },
+      "SendBlackBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/6"
+      },
+      "SendPurpleBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/7"
+      },
+      "SendWhiteBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/8"
+      },
+      "SendLeadBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/9"
+      },
+      "SendZebraBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/0"
+      },
+      "SendRainbowBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/Minus"
+      },
+      "SendCeramicBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/Equals"
+      },
+      "SendMoabBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/o"
+      },
+      "SendBfbBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/p"
+      },
+      "SendZomgBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/LeftBracket"
+      },
+      "SendDdtBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/RightBracket"
+      },
+      "SendBadBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/Backslash"
+      },
+      "SendTestBloon": {
+        "modifierKey": 3,
+        "path": "<Keyboard>/Backquote"
+      }
+    },
+    "monkeysAdvanced": {
+      "BananaFarmerPro": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "SuperMonkeyBeacon": {
+        "modifierKey": 0,
+        "path": ""
+      }
+    },
+    "gameplayAdvanced": {
+      "MergeBeast": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "QuickRestart": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "SelectedTowerActivatedAbility1": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "SelectedTowerActivatedAbility2": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "SelectedTowerActivatedAbility3": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "CenteredPathPosition": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory1": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory2": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory3": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory4": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory5": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory6": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory7": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory8": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory9": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory10": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory11": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory12": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory13": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory14": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory15": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "TowerShopInventory16": {
+        "modifierKey": 0,
+        "path": ""
+      }
+    },
+    "sandboxAdvanced": {
+      "ClearBloons": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "ClearTowers": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "ResetCooldowns": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "ResetDamage": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "SetCash": {
+        "modifierKey": 0,
+        "path": ""
+      },
+      "SetHealth": {
+        "modifierKey": 0,
+        "path": ""
+      }
+    }
+  },
+  "hasSeenNewDoubleCash": false,
+  "seenBigBloons": false,
+  "unlockedBigBloons": false,
+  "bigBloonsActive": false,
+  "seenSmallBloons": false,
+  "unlockedSmallBloons": false,
+  "smallBloonsActive": false,
+  "seenBigTowers": false,
+  "unlockedBigTowers": false,
+  "bigTowersActive": false,
+  "seenSmallTowers": false,
+  "unlockedSmallTowers": false,
+  "smallTowersActive": false,
+  "smallBossesActive": false,
+  "seenSmallBosses": false,
+  "unlockedSmallBosses": false,
+  "seenFastTrack": false,
+  "unlockedFastTrack": false,
+  "fastTrackActive": false,
+  "patWinsOn10Release": 0,
+  "oompaLoompad": false,
+  "collectionEventData": {},
+  "savedPlayList": [],
+  "useJukeBox": false,
+  "trophyStorePurchasedItems": {
+    "BloonsAllBloonsBeards": {
+      "enabled": true
+    },
+    "BloonsAllBloonsBucketHat": {
+      "enabled": true
+    },
+    "BloonsAllBloonsBunnyEars": {
+      "enabled": true
+    },
+    "BloonsAllBloonsCatEar": {
+      "enabled": true
+    },
+    "BloonsAllBloonsClownWigs": {
+      "enabled": true
+    },
+    "BloonsAllBloonsCowboyHat": {
+      "enabled": true
+    },
+    "BloonsAllBloonsDaisyChain": {
+      "enabled": true
+    },
+    "BloonsAllBloonsDecalAxe": {
+      "enabled": true
+    },
+    "BloonsAllBloonsDecalGooglyEyes": {
+      "enabled": true
+    },
+    "BloonsAllBloonsDisguiseGlasses": {
+      "enabled": true
+    },
+    "BloonsAllBloonsElfHat": {
+      "enabled": true
+    },
+    "BloonsAllBloonsHeartGlasses": {
+      "enabled": true
+    },
+    "BloonsAllBloonsMohawks": {
+      "enabled": true
+    },
+    "BloonsAllBloonsNightcap": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPartyHat": {
+      "enabled": true
+    },
+    "BloonsAll-PopsBarrelOfMonkeys": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsBones": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsConfetti": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsFlowers": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsHearts": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsPewpew": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsPow": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsSnowflakes": {
+      "enabled": true
+    },
+    "BloonsAllBloonsPopsWaterbloon": {
+      "enabled": true
+    },
+    "BloonsAllBloonsRudolphNose": {
+      "enabled": true
+    },
+    "BloonsAllBloonsSantaHats": {
+      "enabled": true
+    },
+    "BloonsAllBloonsSunglasses": {
+      "enabled": true
+    },
+    "BloonsAllBloonsTopHats": {
+      "enabled": true
+    },
+    "BloonsAllBloonsTruckerHats": {
+      "enabled": true
+    },
+    "BloonsAllBloonsVampireCapes": {
+      "enabled": true
+    },
+    "BloonsAllBloonsWinterHat": {
+      "enabled": true
+    },
+    "BloonsAllMOABSepia": {
+      "enabled": true
+    },
+    "BloonsBADSkinBones": {
+      "enabled": true
+    },
+    "BloonsZOMGSkinJackOLantern": {
+      "enabled": true
+    },
+    "BloonsBADSkinPinata": {
+      "enabled": true
+    },
+    "BloonsBADSkinScarab": {
+      "enabled": true
+    },
+    "BloonsBADSkinWhale": {
+      "enabled": true
+    },
+    "BloonsBfbSkinBat": {
+      "enabled": true
+    },
+    "BloonsBFBSkinBtd4Retro": {
+      "enabled": true
+    },
+    "BloonsBFBSkinChocolate": {
+      "enabled": true
+    },
+    "BloonsBFBSkinLantern": {
+      "enabled": true
+    },
+    "BloonsBFBSkinLobster": {
+      "enabled": true
+    },
+    "BloonsBFBSkinPizza": {
+      "enabled": true
+    },
+    "BloonsBFBSkinSciFi": {
+      "enabled": true
+    },
+    "BloonsDDTSkinMagpie": {
+      "enabled": true
+    },
+    "BloonsDDTSkinShark": {
+      "enabled": true
+    },
+    "BloonsDDTSkinSleigh": {
+      "enabled": true
+    },
+    "BloonsDDTSkinSpider": {
+      "enabled": true
+    },
+    "BloonsDDTSkinTron": {
+      "enabled": true
+    },
+    "BloonsMOABSkinBee": {
+      "enabled": true
+    },
+    "BloonsMOABSkinBoat": {
+      "enabled": true
+    },
+    "BloonsMOABSkinBtd4Retro": {
+      "enabled": true
+    },
+    "BloonsMOABSkinChocolate": {
+      "enabled": true
+    },
+    "BloonsMOABSkinFootball": {
+      "enabled": true
+    },
+    "BloonsMOABSkinGlacier": {
+      "enabled": true
+    },
+    "BloonsMOABSkinMauler": {
+      "enabled": true
+    },
+    "BloonsMOABSkinPufferFish": {
+      "enabled": true
+    },
+    "BloonsZOMGAncient": {
+      "enabled": true
+    },
+    "BloonsZOMGPirateTurtle": {
+      "enabled": true
+    },
+    "BloonsZOMGSkinSteampunk": {
+      "enabled": true
+    },
+    "BloonsZOMGSkinWatermelon": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationBeggingMonkey": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationBenCool": {
+      "enabled": true
+    },
+    "CE-AnimationBikerBonesRage": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationCelebration": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationConfetti": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationDiscoBall": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationFacepalm": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationFistpump": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationFlowerBloom": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationHappyHolidays": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationLoveHearts": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationMindBlown": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationObynPeace": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationPanicMonkey": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationParagon": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationPatFlex": {
+      "enabled": true
+    },
+    "CE-AnimationPixelMonkeyDance": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationPlayerNumbers": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationPsigh": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationRainbow": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationSiren": {
+      "enabled": true
+    },
+    "CoopEmoteIconSkullAndCrossbones": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationSleighbells": {
+      "enabled": true
+    },
+    "CE-AnimationSparklingHearts": {
+      "enabled": true
+    },
+    "CE-AnimationThinkingMonkey": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationTowerType": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationTrophy": {
+      "enabled": true
+    },
+    "CoopEmoteAnimationTumbleweed": {
+      "enabled": true
+    },
+    "CoopEmoteIconDanger": {
+      "enabled": true
+    },
+    "CoopEmoteIconNoCashDrops": {
+      "enabled": true
+    },
+    "CoopEmoteIconStop": {
+      "enabled": true
+    },
+    "CoopEmoteSoundAirhorn": {
+      "enabled": true
+    },
+    "CoopEmoteSoundCrickets": {
+      "enabled": true
+    },
+    "CoopEmoteSoundScream": {
+      "enabled": true
+    },
+    "CoopEmoteTextActivate": {
+      "enabled": true
+    },
+    "CoopEmoteTextAllIsFine": {
+      "enabled": true
+    },
+    "CoopEmoteTextAmazing": {
+      "enabled": true
+    },
+    "CoopEmoteTextImTheProblem": {
+      "enabled": true
+    },
+    "CoopEmoteTextLetsGo": {
+      "enabled": true
+    },
+    "CoopEmoteTextNeedMore": {
+      "enabled": true
+    },
+    "CoopEmoteTextNextRoundScary": {
+      "enabled": true
+    },
+    "CoopEmoteTextOK": {
+      "enabled": true
+    },
+    "CoopEmoteTextPerfectTiming": {
+      "enabled": true
+    },
+    "CoopEmoteTextWhy": {
+      "enabled": true
+    },
+    "UIMusic-BMCStreetParty": {
+      "enabled": true
+    },
+    "UIMusic-FiestaHeliumHeightsMix": {
+      "enabled": true
+    },
+    "UIMusic-FiestaSynthwaveMix": {
+      "enabled": true
+    },
+    "GameUIMusicTrackMusicHaunted": {
+      "enabled": true
+    },
+    "UIMusic-JingleBloons": {
+      "enabled": true
+    },
+    "UIMusic-Sunset64Mix": {
+      "enabled": true
+    },
+    "UIMusic-SunsetSilentNightMix": {
+      "enabled": true
+    },
+    "UIMusic-SunshineFiestaMix": {
+      "enabled": true
+    },
+    "UIMusic-SunshineGameboyMix": {
+      "enabled": true
+    },
+    "UIMusic-TitleFiestaMix": {
+      "enabled": true
+    },
+    "UIMusic-TribesFunkedMix": {
+      "enabled": true
+    },
+    "UIMusic-TribesJaloonMix": {
+      "enabled": true
+    },
+    "UIMusic-TropicalClassyBrassMix": {
+      "enabled": true
+    },
+    "UIMusic-TropicalComplextroMix": {
+      "enabled": true
+    },
+    "UIMusic-TropicalOctopusMix": {
+      "enabled": true
+    },
+    "UIMusic-WinterChilledMix": {
+      "enabled": true
+    },
+    "UIMusic-WinterTonkMix": {
+      "enabled": true
+    },
+    "PSkin-BananaFarmerBananaCostume": {
+      "enabled": true
+    },
+    "GameUIPowerSkinBaubleMine": {
+      "enabled": true
+    },
+    "PSkin-MonkeyBoostSugarRush": {
+      "enabled": true
+    },
+    "PSkin-CamoTrapSprinkler": {
+      "enabled": true
+    },
+    "GameUIPowerSkinChocolatePontoon": {
+      "enabled": true
+    },
+    "GameUIPowerSkinCoffinDrop": {
+      "enabled": true
+    },
+    "GameUIPowerSkinDartTimeMatrix": {
+      "enabled": true
+    },
+    "PSkin-EnergisingTotemXmasTree": {
+      "enabled": true
+    },
+    "PSkin-GlueTrapHoneyTrap": {
+      "enabled": true
+    },
+    "GameUIPowerSkinHalloweenFarmer": {
+      "enabled": true
+    },
+    "GameUIPowerSkinIcebergPontoon": {
+      "enabled": true
+    },
+    "GameUIPowerSkinLavaLake": {
+      "enabled": true
+    },
+    "PSkin-MonkeyBoostFireworks": {
+      "enabled": true
+    },
+    "GameUIPowerSkinPinataCashDrop": {
+      "enabled": true
+    },
+    "GameUIPowerSkinRetroTechbot": {
+      "enabled": true
+    },
+    "PSkin-RoadSpikesFlowerPatch": {
+      "enabled": true
+    },
+    "PSkin-SuperVampireStorm": {
+      "enabled": true
+    },
+    "GameUIPowerSkinThriveStonks": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar101": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar103": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar105": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar108": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar109": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar111": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar113": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar114": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar116": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar117": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar119": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar13": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar14": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar15": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar16": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar17": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar18": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar19": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar20": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar21": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar22": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar23": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar24": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar25": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar26": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar27": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar28": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar29": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar30": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar31": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar32": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar33": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar34": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar35": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar36": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar37": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar38": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar39": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar40": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar41": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar42": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar43": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar44": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar45": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar46": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar47": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar48": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar49": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar50": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar51": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar52": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar53": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar54": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar55": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar56": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar57": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar58": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar59": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar60": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar61": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar62": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar63": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar64": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar65": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar66": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar67": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar68": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar69": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar70": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar71": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar72": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar73": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar74": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar75": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar76": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar78": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar79": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar80": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar81": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar82": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar83": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar84": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar85": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar86": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar87": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar88": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar89": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar90": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar91": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar92": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar95": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar96": {
+      "enabled": true
+    },
+    "GameUIProfileAvatar97": {
+      "enabled": true
+    },
+    "GameUIProfileBanner1": {
+      "enabled": true
+    },
+    "GameUIProfileBanner10": {
+      "enabled": true
+    },
+    "GameUIProfileBanner11": {
+      "enabled": true
+    },
+    "GameUIProfileBanner12": {
+      "enabled": true
+    },
+    "GameUIProfileBanner13": {
+      "enabled": true
+    },
+    "GameUIProfileBanner14": {
+      "enabled": true
+    },
+    "GameUIProfileBanner15": {
+      "enabled": true
+    },
+    "GameUIProfileBanner16": {
+      "enabled": true
+    },
+    "GameUIProfileBanner17": {
+      "enabled": true
+    },
+    "GameUIProfileBanner18": {
+      "enabled": true
+    },
+    "GameUIProfileBanner19": {
+      "enabled": true
+    },
+    "GameUIProfileBanner2": {
+      "enabled": true
+    },
+    "GameUIProfileBanner20": {
+      "enabled": true
+    },
+    "GameUIProfileBanner21": {
+      "enabled": true
+    },
+    "GameUIProfileBanner22": {
+      "enabled": true
+    },
+    "GameUIProfileBanner23": {
+      "enabled": true
+    },
+    "GameUIProfileBanner24": {
+      "enabled": true
+    },
+    "GameUIProfileBanner25": {
+      "enabled": true
+    },
+    "GameUIProfileBanner26": {
+      "enabled": true
+    },
+    "GameUIProfileBanner27": {
+      "enabled": true
+    },
+    "GameUIProfileBanner28": {
+      "enabled": true
+    },
+    "GameUIProfileBanner29": {
+      "enabled": true
+    },
+    "GameUIProfileBanner3": {
+      "enabled": true
+    },
+    "GameUIProfileBanner30": {
+      "enabled": true
+    },
+    "GameUIProfileBanner31": {
+      "enabled": true
+    },
+    "GameUIProfileBanner33": {
+      "enabled": true
+    },
+    "GameUIProfileBanner34": {
+      "enabled": true
+    },
+    "GameUIProfileBanner35": {
+      "enabled": true
+    },
+    "GameUIProfileBanner36": {
+      "enabled": true
+    },
+    "GameUIProfileBanner37": {
+      "enabled": true
+    },
+    "GameUIProfileBanner39": {
+      "enabled": true
+    },
+    "GameUIProfileBanner4": {
+      "enabled": true
+    },
+    "GameUIProfileBanner43": {
+      "enabled": true
+    },
+    "GameUIProfileBanner45": {
+      "enabled": true
+    },
+    "GameUIProfileBanner47": {
+      "enabled": true
+    },
+    "GameUIProfileBanner49": {
+      "enabled": true
+    },
+    "GameUIProfileBanner5": {
+      "enabled": true
+    },
+    "GameUIProfileBanner51": {
+      "enabled": true
+    },
+    "GameUIProfileBanner53": {
+      "enabled": true
+    },
+    "GameUIProfileBanner54": {
+      "enabled": true
+    },
+    "GameUIProfileBanner56": {
+      "enabled": true
+    },
+    "GameUIProfileBanner57": {
+      "enabled": true
+    },
+    "GameUIProfileBanner59": {
+      "enabled": true
+    },
+    "GameUIProfileBanner6": {
+      "enabled": true
+    },
+    "GameUIProfileBanner7": {
+      "enabled": true
+    },
+    "GameUIProfileBanner8": {
+      "enabled": true
+    },
+    "GameUIProfileBanner9": {
+      "enabled": true
+    },
+    "GameUIUpgradesNamedMonkeys": {
+      "enabled": true
+    },
+    "HeroesAdmiralBrickellPetParrot": {
+      "enabled": true
+    },
+    "H-BrickellPlacementAerialDep": {
+      "enabled": true
+    },
+    "HeroesAdoraPlacementSunbeam": {
+      "enabled": true
+    },
+    "HeroesBenjaminPetMouse": {
+      "enabled": true
+    },
+    "HeroesBenjaminPlacementMatrix": {
+      "enabled": true
+    },
+    "H-BenDJSkinPlacementPartyLights": {
+      "enabled": true
+    },
+    "H-ChurchillPlacementTankDrop": {
+      "enabled": true
+    },
+    "H-ChurchillSentaiSkinPetDrone": {
+      "enabled": true
+    },
+    "HeroesCorvusPetOwl": {
+      "enabled": true
+    },
+    "HeroesEtiennePetRoomba": {
+      "enabled": true
+    },
+    "HeroesETnPlacementBeamDown": {
+      "enabled": true
+    },
+    "HeroesEziliPetFrog": {
+      "enabled": true
+    },
+    "HeroesEziliPlacementGlyph": {
+      "enabled": true
+    },
+    "HeroesGeraldoPetPackMule": {
+      "enabled": true
+    },
+    "HeroesGwendolinPetFirefox": {
+      "enabled": true
+    },
+    "H-GwendolinPlacementFireball": {
+      "enabled": true
+    },
+    "HeroesJoanOfArcAdoraPetDragon": {
+      "enabled": true
+    },
+    "HeroesMountainObynPetBalfrog": {
+      "enabled": true
+    },
+    "HeroesObynPetBunny": {
+      "enabled": true
+    },
+    "HeroesObynPetWolf": {
+      "enabled": true
+    },
+    "HeroesObynPlacementWolf": {
+      "enabled": true
+    },
+    "HeroesPatFustyPetPig": {
+      "enabled": true
+    },
+    "H-PatFustyPlacementSuperjump": {
+      "enabled": true
+    },
+    "HeroesPatPetPenguin": {
+      "enabled": true
+    },
+    "HeroesPsiPetBison": {
+      "enabled": true
+    },
+    "H-CyberQuincyPlacementFireworks": {
+      "enabled": true
+    },
+    "HeroesQuincyPetDadOfQuincy": {
+      "enabled": true
+    },
+    "H-QuincyPlacementSpecialForces": {
+      "enabled": true
+    },
+    "HeroesRosaliaPetCollie": {
+      "enabled": true
+    },
+    "HeroesSaudaPetCrane": {
+      "enabled": true
+    },
+    "H-BikerBonesPlacementHellrift": {
+      "enabled": true
+    },
+    "H-StrikerJonesPetGermanShepherd": {
+      "enabled": true
+    },
+    "H-StrikerJonesPlacementParadrop": {
+      "enabled": true
+    },
+    "TEAMPU-Snowflakes": {
+      "enabled": true
+    },
+    "TEAMPU-Bats": {
+      "enabled": true
+    },
+    "TEAMPU-Butterflies": {
+      "enabled": true
+    },
+    "TEAMPU-Fireworks": {
+      "enabled": true
+    },
+    "TEAMPU-Ghosts": {
+      "enabled": true
+    },
+    "TEAMPU-Presents": {
+      "enabled": true
+    },
+    "TowerPetAlchemistSlimeCube": {
+      "enabled": true
+    },
+    "TowerPetBananaFarmChicken": {
+      "enabled": true
+    },
+    "TowerPetBombshooterTortoise": {
+      "enabled": true
+    },
+    "TowerPetBoomerangKangaroo": {
+      "enabled": true
+    },
+    "TowerPetDesperadoArmadillo": {
+      "enabled": true
+    },
+    "TowerPetDruidCapybara": {
+      "enabled": true
+    },
+    "TowerPetEngineerBot": {
+      "enabled": true
+    },
+    "TowerPetGlueGunnerRat": {
+      "enabled": true
+    },
+    "TowerPetHeliPilotHummingbird": {
+      "enabled": true
+    },
+    "TowerPetIceMonkeySnowman": {
+      "enabled": true
+    },
+    "TowerPetIceMonkeyWalrus": {
+      "enabled": true
+    },
+    "TowerPetMonkeyBuccaneerNarwhal": {
+      "enabled": true
+    },
+    "TowerPetMonkeySubRubberDuck": {
+      "enabled": true
+    },
+    "TowerPetMonkeyVillageElf": {
+      "enabled": true
+    },
+    "TowerPetMortarMonkeySafetyMole": {
+      "enabled": true
+    },
+    "TowerPetNinjaMonkeyKiwi": {
+      "enabled": true
+    },
+    "TowerPetSniperMonkeyChameleon": {
+      "enabled": true
+    },
+    "TowerPetSupermonkeyBat": {
+      "enabled": true
+    },
+    "TowerPetTackShooterHedgehog": {
+      "enabled": true
+    },
+    "TP-AlchemistSpringFlowers": {
+      "enabled": true
+    },
+    "TP-BananaFarmCandyCorn": {
+      "enabled": true
+    },
+    "TP-BananaFarmPresents": {
+      "enabled": true
+    },
+    "TP-BombshooterPumpkin": {
+      "enabled": true
+    },
+    "TP-BoomerangCandyCane": {
+      "enabled": true
+    },
+    "TP-DartlingEasterEggs": {
+      "enabled": true
+    },
+    "TP-DartMonkeyPumpkins": {
+      "enabled": true
+    },
+    "TP-DartMonkeySnowballs": {
+      "enabled": true
+    },
+    "TowerProjectileDruidChristmas": {
+      "enabled": true
+    },
+    "TP-EngineerVampireHunter": {
+      "enabled": true
+    },
+    "TowerProjectileMonkeyAceBones": {
+      "enabled": true
+    },
+    "TP-BuccaneerFlavouredTrades": {
+      "enabled": true
+    },
+    "TowerProjectileMortarSnow": {
+      "enabled": true
+    },
+    "TP-NinjaMonkeySnowflakes": {
+      "enabled": true
+    },
+    "TP-SpikeFactoryPineapples": {
+      "enabled": true
+    },
+    "TP-TackShooterIcicles": {
+      "enabled": true
+    },
+    "TP-WizardMonkeyFireworks": {
+      "enabled": true
+    },
+    "TowerProjectileWizardZombies": {
+      "enabled": true
+    },
+    "TProp-VillageAustralianFlag": {
+      "enabled": true
+    },
+    "TProp-VillageBananaFlag": {
+      "enabled": true
+    },
+    "TProp-VillageBrazilFlag": {
+      "enabled": true
+    },
+    "TProp-VillageCanadianFlag": {
+      "enabled": true
+    },
+    "TProp-VillageGermanyFlag": {
+      "enabled": true
+    },
+    "TowerPropMonkeyVillageNZFlag": {
+      "enabled": true
+    },
+    "TowerPropMonkeyVillagePrideFlag": {
+      "enabled": true
+    },
+    "TProp-VillageScotlandFlag": {
+      "enabled": true
+    },
+    "TProp-VillageSwedenFlag": {
+      "enabled": true
+    },
+    "TowerPropMonkeyVillageUKFlag": {
+      "enabled": true
+    },
+    "TowerPropMonkeyVillageUSAFlag": {
+      "enabled": true
+    },
+    "TPBombshooterFireworks": {
+      "enabled": true
+    },
+    "TPWizardSheep": {
+      "enabled": true
+    }
+  },
+  "namedMonkeyNames": {
+    "DartMonkey1": "Dart Monkey",
+    "BoomerangMonkey1": "Boomerang Monkey",
+    "BombShooter1": "Bomb Shooter",
+    "TackShooter1": "Tack Shooter",
+    "IceMonkey1": "Ice Monkey",
+    "GlueGunner1": "Glue Gunner",
+    "Desperado1": "Desperado",
+    "SniperMonkey1": "Sniper Monkey",
+    "MonkeySub1": "Monkey Sub",
+    "MonkeyBuccaneer1": "Monkey Buccaneer",
+    "MonkeyAce1": "Monkey Ace",
+    "HeliPilot1": "Heli Pilot",
+    "MortarMonkey1": "Mortar Monkey",
+    "DartlingGunner1": "Dartling Gunner",
+    "WizardMonkey1": "Wizard Monkey",
+    "SuperMonkey1": "Super Monkey",
+    "NinjaMonkey1": "Ninja Monkey",
+    "Alchemist1": "Alchemist",
+    "Druid1": "Druid",
+    "Mermonkey1": "Mermonkey",
+    "BananaFarm1": "Banana Farm",
+    "SpikeFactory1": "Spike Factory",
+    "MonkeyVillage1": "Monkey Village",
+    "EngineerMonkey1": "Engineer Monkey",
+    "BeastHandler1": "Beast Handler",
+    "Sheriff1": "Sheriff",
+    "Cyber Quincy Skin": "Cyber Quincy Skin",
+    "Quincy": "Quincy",
+    "Wolfpack Quincy Skin": "Wolfpack Quincy Skin",
+    "Harlegwen Skin": "Harlegwen Skin",
+    "Gwendolin": "Gwendolin",
+    "Scientist Gwendolin Skin": "Scientist Gwendolin Skin",
+    "Biker Bones Skin": "Biker Bones Skin",
+    "Octojones Skin": "Octojones Skin",
+    "Striker Jones": "Striker Jones",
+    "Mountain Guardian Skin": "Mountain Guardian Skin",
+    "Obyn Greenfoot": "Obyn Greenfoot",
+    "Ocean Guardian Skin": "Ocean Guardian Skin",
+    "Skeletor!": "Skeletor!",
+    "Captain Churchill": "Captain Churchill",
+    "Sentai Churchill Skin": "Sentai Churchill Skin",
+    "Sleigh Churchill Skin": "Sleigh Churchill Skin",
+    "Benjamin": "Benjamin",
+    "Benjammin DJ Skin": "Benjammin DJ Skin",
+    "Sushi Bento Skin": "Sushi Bento Skin",
+    "Ezili": "Ezili",
+    "Galaxili Skin": "Galaxili Skin",
+    "Smudge Catt Skin": "Smudge Catt Skin",
+    "Fusty the Snowman Skin": "Fusty the Snowman Skin",
+    "Pat Fusty": "Pat Fusty",
+    "Kaiju Pat Skin": "Kaiju Pat Skin",
+    "Adora": "Adora",
+    "Joan of Arc Adora Skin": "Joan of Arc Adora Skin",
+    "Voidora Skin": "Voidora Skin",
+    "She-Ra!": "She-Ra!",
+    "Admiral Brickell": "Admiral Brickell",
+    "Dread Pirate Brickell Skin": "Dread Pirate Brickell Skin",
+    "Lifeguard Brickell Skin": "Lifeguard Brickell Skin",
+    "Etienne": "Etienne",
+    "ETn Skin": "ETn Skin",
+    "Book Wyrm Skin": "Book Wyrm Skin",
+    "Sauda": "Sauda",
+    "Viking Sauda Skin": "Viking Sauda Skin",
+    "Jiangshi Sauda Skin": "Jiangshi Sauda Skin",
+    "Red Sauda Skin": "Red Sauda Skin",
+    "Psi": "Psi",
+    "Psimbals Skin": "Psimbals Skin",
+    "Dreamstate Psi Skin": "Dreamstate Psi Skin",
+    "Geraldo": "Geraldo",
+    "Gentlemonkey Gadgeteer Skin": "Gentlemonkey Gadgeteer Skin",
+    "Corvus": "Corvus",
+    "Rosalia": "Rosalia",
+    "Tinkerfairy Skin": "Tinkerfairy Skin",
+    "Silas": "Silas"
+  },
+  "savedStats": {
+    "PlayerStatsGamesPlayed": true,
+    "PlayerStatsGamesWon": false,
+    "PlayerStatsHighestRound": true,
+    "PlayerStatsMonkeysPlaced": false,
+    "PlayerStatsPopCount": true,
+    "PlayerStatsCoopPopCount": false,
+    "PlayerStatsCamoPopped": false,
+    "PlayerStatsLeadPopped": false,
+    "PlayerStatsPurplePopped": false,
+    "PlayerStatsRegrowPopped": false,
+    "PlayerStatsCeramicPopped": false,
+    "PlayerStatsMoabsPopped": false,
+    "PlayerStatsBfbsPopped": false,
+    "PlayerStatsZomgsPopped": false,
+    "PlayerStatsDdtsPopped": false,
+    "PlayerStatsBadsPopped": false,
+    "PlayerStatsBloonsLeaked": false,
+    "PlayerStatsCashGenerated": false,
+    "PlayerStatsCashGifted": false,
+    "PlayerStatsAbilitiesUsed": false,
+    "PlayerStatsPowersUsed": false,
+    "PlayerStatsInstaMonkeysUsed": false,
+    "PlayerStatsDailysOpened": false,
+    "PlayerStatsChallengesCompleted": false,
+    "Achievements": false,
+    "HiddenAchievements": false,
+    "PlayerStatsOdysseysCompleted": false,
+    "PlayerStatsLifetimeTrophies": false,
+    "PlayerStatsNecroBloons": false,
+    "PlayerStatsTransformingTonics": false,
+    "Most Experienced Monkey": false,
+    "Most Experienced Monkey Xp": false,
+    "Insta Monkey Collection": false,
+    "Collection Chests Opened": false,
+    "GoldenBloonsPopped": false,
+    "MonkeyTeamWins": false,
+    "PlayerStatsHighestRoundCHIMPS": false,
+    "PlayerStatsHighestRoundDeflation": false,
+    "PlayerStatsHighestRoundCurrentVersion": false,
+    "PlayerStatsBossesPopped": false,
+    "PlayerStatsDamageDoneToBosses": false
+  },
+  "profileAvatar": "ProfileAvatar01",
+  "profileAvatarFrame": null,
+  "profileBanner": "TeamsBannerDeafult",
+  "seenProfileStats": true,
+  "savedNamedMonkeyStats": {},
+  "trophyStoreSeen": true,
+  "noStoneUnturned": 634717,
+  "moProblems": 441946,
+  "fullSpeed": 1042822,
+  "transformicTonicUsesOn20Release": 0,
+  "currentTowerGiftProgress": 183232,
+  "trophiesSpent": 0,
+  "hostedCoopGames": 1,
+  "collectionEventCratesOpened": 0,
+  "collectionEventCratesTypesOpened": {},
+  "continuesUsed": 1,
+  "blockedHostnames": [],
+  "selectedContentTab": 0,
+  "goldenBloonData": {
+    "Beginner": {
+      "currentMapId": "ParkPath",
+      "endTime": "2026-02-14T01:42:18.536"
+    },
+    "Intermediate": {
+      "currentMapId": "Haunted",
+      "endTime": "2026-02-14T01:42:18.536"
+    },
+    "Advanced": {
+      "currentMapId": "PatsPond",
+      "endTime": "2026-02-14T01:42:18.536"
+    },
+    "Expert": {
+      "currentMapId": "Workshop",
+      "endTime": "2026-02-14T01:42:18.536"
+    }
+  },
+  "goldenBloonsPopped": 0,
+  "monkeyTeamsWins": 0,
+  "monkeyTeamsData": {
+    "Beginner": {
+      "currentMapId": "ThreeMinesAround",
+      "endTime": "2026-02-14T01:24:01.059"
+    },
+    "Intermediate": {
+      "currentMapId": "LostCrevasse",
+      "endTime": "2026-02-13T05:19:14.691"
+    },
+    "Advanced": {
+      "currentMapId": "SunsetGulch",
+      "endTime": "2026-02-13T05:19:14.691"
+    },
+    "Expert": {
+      "currentMapId": "TrickyTracks",
+      "endTime": "2026-02-13T05:19:14.691"
+    }
+  },
+  "giftedAchievements": [],
+  "unverifiedRacePassClaims": [],
+  "isBossRankedSelected": false,
+  "isBossEliteSelected": false,
+  "bossesEventData": [],
+  "questsEventData": [],
+  "playedDailyChallengeIds": [],
+  "lostDailyChallengeIds": [],
+  "wonDailyChallengeIds": [],
+  "numWonUniqueDailyChallenges": 0,
+  "friendScreenShowCode": true,
+  "toggleFriendRequests": false,
+  "numAwaitingFriendRequests": 0,
+  "guildLastCheckedMessage": "0001-01-01T00:00:00",
+  "guildInviteChecked": "0001-01-01T00:00:00",
+  "teamInvitationsSent": {},
+  "isInTeam": false,
+  "colorBlindModeOn": false,
+  "ctScorePanelCollapsed": false,
+  "dataConsent": false,
+  "analyticsConsent": false,
+  "ctSeenFirstTimePopup": {},
+  "ctCapturedTileType": {},
+  "toggleTeamRequests": false,
+  "previousGuildId": "",
+  "nexusCreatorId": null,
+  "nexus": null,
+  "isOnlineStatusEnabled": false,
+  "questsSaveData": [
+    {
+      "questId": "1stTutorial",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "BattleCatQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "BloonariusBattleQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "BouncyDartsTale",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeABRCHIMPOPPABLE",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "AcceleratedRoundSetChallengeQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "AnniversaryChallengeQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "BikerRaceChallengeQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeBloonHackers",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "LogsCHIMPSChallengeQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "EnduranceRaceQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeFastTracked",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "FastUpgradesQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "GearedLeastTiersChallengeQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeMOABMadness",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeMoonColony",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeOneHero",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeOneSided",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "PhayzeOneQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ProtectTheYacht",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ChallengeRaftDefense",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "PhayzeBloonQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ExperimentProjectileCarousel",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ExperimentRegularIncome",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "FrontierLegendQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "HeroAdoraQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "BrickellTestQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "HeroChurchillQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "CorvusTestQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "EtienneTest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "HeroEziliQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "HeroGeraldoQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "GwendolinTestQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ObynTest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "PatTestQuestName",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "HeroPsiQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "QuincyTest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "RosaliaTest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "SaudaTestQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "SilasTestQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "StrikerTestQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "BeastHandlerQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "DartlingGunnerQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "DesperadoQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "MermonkeyQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "RogueLegendQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "ScoopsTaleIQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "SheRaQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "SkeletorQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            },
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    },
+    {
+      "questId": "Round100FirstStrikeQuest",
+      "questPartSaveData": [
+        {
+          "completed": false,
+          "tasksSaveData": [
+            {
+              "completed": false,
+              "seenDialogueEvents": [],
+              "hasCollectedRewards": false,
+              "score": -1,
+              "jsonMetadata": null
+            }
+          ],
+          "hasCollectedRewards": false,
+          "hasSeenQuestCompleteDialogue": false,
+          "hasSeenQuestPart": false,
+          "toggleDisableDialogue": false,
+          "hasClaimedSpecialEventRewards": false,
+          "lastSelectedTaskIndex": 0
+        }
+      ],
+      "hasSeenQuest": false,
+      "lastSelectedPartIndex": 0,
+      "tasksSaveData": [],
+      "hasCollectedRewards": false,
+      "hasSeenQuestCompleteDialogue": false,
+      "lastSelectedTaskIndex": 0,
+      "hasClaimedSpecialEventRewards": false,
+      "toggleDisableDialogue": false
+    }
+  ],
+  "isPendingNamedMonkeyValidation": false,
+  "accessibilitySettings": {
+    "categoryFilter": 65535,
+    "categoryScales": {},
+    "stereoEnabled": true,
+    "stereoScale": 1,
+    "rangeCircleTexture": {
+      "AssetGUID": null,
+      "guidRef": null
+    },
+    "rangeCircleOutline": {
+      "AssetGUID": null,
+      "guidRef": null
+    },
+    "ambientMapEffectsEnabled": true,
+    "towerPlacementSnappingEnabled": false
+  },
+  "geraldoShopItemsUsed": {},
+  "audioSettings": {
+    "bools": [],
+    "floats": {
+      "fxModifier": 1,
+      "musicModifier": 1,
+      "heroVOModifier": 1,
+      "petSoundsModifier": 1
+    }
+  },
+  "seenUpcomingCtEventId": null,
+  "bossChallengeScores": {},
+  "bossChallengeScores2p": {},
+  "bossChallengeScores3p": {},
+  "bossChallengeScores4p": {},
+  "selectedChallengeBoss": 0,
+  "selectedChallengeBossMap": "Tutorial",
+  "selectedChallengeBossRanked": false,
+  "selectedChallengeBossScoring": 0,
+  "seenBossChallenge": false,
+  "uniqueBossesDefeated": [],
+  "heavyInvestment": 431774,
+  "hideAccoladeNotifs": false,
+  "hasPublicAccolades": true,
+  "towerUnlockProgresses": {
+    "Desperado": 1772380
+  },
+  "selectedTowerForUnlockProgression": "Desperado",
+  "gameEditorData": {
+    "actors": [],
+    "actorProps": []
+  },
+  "legendsData": {
+    "rogueSaves": {
+      "MainSave": null,
+      "QuestSave": null,
+      "TrainingSave": null
+    },
+    "selectedRogueSave": null,
+    "frontierSaves": {
+      "MainSave": null,
+      "DemoSave": null
+    },
+    "selectedFrontierSave": "MainSave",
+    "hasPlayedPurchasedFrontier": false,
+    "unlockedStarterArtifacts": [],
+    "selectedStarterArtifacts": [],
+    "uniqueInstaId": 0,
+    "rogueGameId": 0,
+    "frontierGameId": 0,
+    "highestStageBeaten": 0,
+    "hasSeenInfoPopup": true,
+    "rogueLegendXp": 0,
+    "unseenLegendXpReward": 0,
+    "hasSeenXpShopPip": false,
+    "unlockedRogueXpShopItems": {},
+    "lastSeenLegendsType": 1,
+    "savedLegendsStats": {
+      "Rogue": {
+        "RogueTilesCaptured": false,
+        "RogueCampaignMapsWon": false,
+        "RogueCommonArtifactsCollected": false,
+        "RogueRareArtifactsCollected": false,
+        "RogueLegendaryArtifactsCollected": false,
+        "RogueExtractedArtifacts": false,
+        "RogueStandardTilesCaptured": false,
+        "RogueMiniGameTilesCaptured": false,
+        "RogueMiniBossTilesCaptured": false,
+        "RogueCommonBoostsCollected": false,
+        "RogueRareBoostsCollected": false,
+        "RogueLegendaryBoostsCollected": false,
+        "PlayerStatsMonkeysPlaced": false,
+        "PlayerStatsPopCount": false,
+        "PlayerStatsCamoPopped": false,
+        "PlayerStatsLeadPopped": false,
+        "PlayerStatsPurplePopped": false,
+        "PlayerStatsRegrowPopped": false,
+        "PlayerStatsCeramicPopped": false,
+        "PlayerStatsMoabsPopped": false,
+        "PlayerStatsBfbsPopped": false,
+        "PlayerStatsZomgsPopped": false,
+        "PlayerStatsDdtsPopped": false,
+        "PlayerStatsBadsPopped": false,
+        "PlayerStatsBossesPopped": false,
+        "PlayerStatsAbilitiesUsed": false,
+        "PlayerStatsMonkeysUpgraded": false,
+        "PlayerStatsDamageDoneToBosses": false
+      },
+      "Frontier": {
+        "PlayerStatsMonkeysPlaced": false,
+        "PlayerStatsPopCount": false,
+        "PlayerStatsCamoPopped": false,
+        "PlayerStatsLeadPopped": false,
+        "PlayerStatsPurplePopped": false,
+        "PlayerStatsRegrowPopped": false,
+        "PlayerStatsCeramicPopped": false,
+        "PlayerStatsMoabsPopped": false,
+        "PlayerStatsBfbsPopped": false,
+        "PlayerStatsZomgsPopped": false,
+        "PlayerStatsDdtsPopped": false,
+        "PlayerStatsBadsPopped": false,
+        "PlayerStatsBossesPopped": false,
+        "PlayerStatsAbilitiesUsed": false,
+        "PlayerStatsMonkeysUpgraded": false,
+        "PlayerStatsDamageDoneToBosses": false
+      }
+    },
+    "savedLegendMedals": {
+      "Rogue": {
+        "normalBadges": 0,
+        "completedBadge": 0
+      },
+      "Frontier": {
+        "normalBadges": 0,
+        "completedBadge": 0
+      }
+    },
+    "featsProgress": {},
+    "featsClaimed": []
+  },
+  "seenLegends": [
+    1
+  ],
+  "seenStorePipIds": [],
+  "iapLoginReminderCount": 0,
+  "sweepstakesStatsByEvent": {},
+  "seenDialogues": {},
+  "giftsReceived": [],
+  "receivedGiftEventIds": [],
+  "pendingGifts": {},
+  "claimedGifts": {},
+  "seenMessageEventIds": [],
+  "deletedMessageEventIds": [],
+  "tutorialTypeSelected": 1,
+  "powersProSaveData": {
+    "isEnabled": true,
+    "dataByPower": {
+      "BananaFarmerPro": {
+        "isSeen": 0,
+        "xp": 235600,
+        "unlockedTier": 3,
+        "seenUnlockPro": 1,
+        "seenUnlockTier": 3
+      },
+      "SuperMonkeyBeacon": {
+        "isSeen": 0,
+        "xp": 289600,
+        "unlockedTier": 3,
+        "seenUnlockPro": 1,
+        "seenUnlockTier": 3
+      }
+    },
+    "seenInfoPopup": 1
+  },
+  "privateMessages": [],
+  "pendingSteamAttribution": "",
+  "shownLegendPopups": null,
+  "HasCompletedTutorial": true
+}
